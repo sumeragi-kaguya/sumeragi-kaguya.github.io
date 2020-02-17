@@ -11370,7 +11370,7 @@ var datach = {
      "name": "Не время для покоя",
      "mode": 0,
      "chara": [315],
-     "done": false
+     "done": true
     },
     {"id": 2629,
      "start": new Date(2018, 0, 10, 7, 0),
