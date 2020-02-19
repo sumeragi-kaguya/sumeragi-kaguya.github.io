@@ -10640,6 +10640,16 @@ var datach = {
      "chara": [291],
      "done": true
     },
+    {"id": 2522,
+     "start": new Date(2017, 11, 25, 9, 0),
+     "end": new Date(2017, 11, 25, 12, 0),
+     "tz": 13,
+     "turn": 6,
+     "name": "Волчьи сны",
+     "mode": 0,
+     "chara": [26, 258],
+     "done": true
+    },
     {"id": 2477,
      "start": new Date(2017, 11, 25, 10, 0),
      "end": new Date(2017, 11, 25, 12, 0),
@@ -11630,7 +11640,7 @@ var datach = {
      "name": "Civilization of Evolution",
      "mode": 0,
      "chara": [71],
-     "done": false
+     "done": true
     },
     {"id": 2664,
      "start": new Date(2018, 0, 20, 0, 0),
@@ -12004,6 +12014,16 @@ var datach = {
      "chara": [253],
      "done": true
     },
+    {"id": 2589,
+     "start": new Date(2014, 8, 12, 0, 0),
+     "end": new Date(2014, 8, 15, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Однажды в Салеме",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2024,
      "start": new Date(2015, 0, 5, 0, 0),
      "end": new Date(2015, 0, 7, 0, 0),
@@ -12043,6 +12063,16 @@ var datach = {
      "mode": 0,
      "chara": [11, 62],
      "done": true
+    },
+    {"id": 2590,
+     "start": new Date(2015, 4, 3, 0, 0),
+     "end": new Date(2015, 4, 4, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Однажды в метро",
+     "mode": 0,
+     "chara": [],
+     "done": false
     },
     {"id": 1998,
      "start": new Date(2015, 5, 12, 0, 0),
