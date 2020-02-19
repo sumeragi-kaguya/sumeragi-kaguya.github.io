@@ -12044,6 +12044,16 @@ var datach = {
      "chara": [11, 62],
      "done": true
     },
+    {"id": 1998,
+     "start": new Date(2015, 5, 12, 0, 0),
+     "end": new Date(2016, 9, 15, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Кубинская гончая",
+     "mode": 0,
+     "chara": [257],
+     "done": false
+    },
     {"id": 2290,
      "start": new Date(2015, 5, 15, 0, 0),
      "end": null,
