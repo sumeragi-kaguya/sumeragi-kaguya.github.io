@@ -11984,6 +11984,16 @@ var datach = {
      "chara": [18, 120],
      "done": true
     },
+    {"id": 1765,
+     "start": new Date(2014, 3, 30, 0, 0),
+     "end": new Date(2014, 8, 30, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Война в Ливии",
+     "mode": 0,
+     "chara": [29, 96, 257, 282],
+     "done": false
+    },
     {"id": 2334,
      "start": new Date(2014, 5, 26, 0, 0),
      "end": null,
