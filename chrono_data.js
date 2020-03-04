@@ -10448,7 +10448,7 @@ var datach = {
      "name": "Happy Marry Christmas",
      "mode": 0,
      "chara": [270],
-     "done": false
+     "done": true
     },
     {"id": 2472,
      "start": new Date(2017, 11, 23, 16, 43),
@@ -10707,7 +10707,7 @@ var datach = {
      "turn": 6,
      "name": " Пикник на обочине",
      "mode": 0,
-     "chara": [26, 72, 258],
+     "chara": [26, 72, 258, 277],
      "done": false
     },
     {"id": 2232,
@@ -11422,6 +11422,16 @@ var datach = {
      "chara": [292, 129],
      "done": true
     },
+    {"id": 2707,
+     "start": new Date(2018, 0, 11, 4, 0),
+     "end": new Date(2018, 0, 11, 11, 0),
+     "tz": 12,
+     "turn": 7,
+     "name": "Белый снег, серый лёд",
+     "mode": 0,
+     "chara": [323],
+     "done": false
+    },
     {"id": 2665,
      "start": new Date(2018, 0, 11, 8, 0),
      "end": new Date(2018, 0, 11, 9, 0),
@@ -11469,7 +11479,7 @@ var datach = {
      "turn": 7,
      "name": "Операция «Мотылёк»",
      "mode": 0,
-     "chara": [321, 26],
+     "chara": [321, 26, 323],
      "done": false
     },
     {"id": 2679,
@@ -11520,7 +11530,7 @@ var datach = {
      "name": "Работники пера и топора",
      "mode": 0,
      "chara": [317, 316],
-     "done": false
+     "done": true
     },
     {"id": 2691,
      "start": new Date(2018, 0, 14, 13, 0),
@@ -11609,7 +11619,17 @@ var datach = {
      "turn": 7,
      "name": "One bullet",
      "mode": 0,
-     "chara": [90, 253, 180, 300],
+     "chara": [90, 253, 180, 300, 317, 316],
+     "done": false
+    },
+    {"id": 2708,
+     "start": new Date(2018, 0, 17, 11, 0),
+     "end": new Date(2018, 0, 17, 18, 0),
+     "tz": 15,
+     "turn": 7,
+     "name": "Охотник и добыча",
+     "mode": 0,
+     "chara": [318, 324, 325],
      "done": false
     },
     {"id": 2644,
