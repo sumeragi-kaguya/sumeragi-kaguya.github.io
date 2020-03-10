@@ -9978,7 +9978,7 @@ var datach = {
      "name": "Поговорим по душам",
      "mode": 0,
      "chara": [253, 182],
-     "done": false
+     "done": true
     },
     {"id": 2218,
      "start": new Date(2017, 11, 16, 10, 0),
@@ -9999,6 +9999,16 @@ var datach = {
      "mode": 0,
      "chara": [291],
      "done": true
+    },
+    {"id": 2709,
+     "start": new Date(2017, 11, 16, 23, 0),
+     "end": new Date(2017, 11, 17, 2, 0),
+     "tz": 10,
+     "turn": 6,
+     "name": "Подслушано в Санкт-Петербурге",
+     "mode": 0,
+     "chara": [253],
+     "done": false
     },
     {"id": 2423,
      "start": new Date(2017, 11, 17, 6, 0),
@@ -10199,16 +10209,6 @@ var datach = {
      "mode": 0,
      "chara": [283],
      "done": true
-    },
-    {"id": 2575,
-     "start": new Date(2017, 11, 19, 23, 30),
-     "end": new Date(2017, 11, 20, 0, 30),
-     "tz": 10,
-     "turn": 6,
-     "name": "Немного о причудах отдельно взятых царевичей",
-     "mode": 0,
-     "chara": [304, 188],
-     "done": false
     },
     {"id": 2537,
      "start": new Date(2017, 11, 20, 1, 0),
@@ -10900,6 +10900,16 @@ var datach = {
      "name": "Fortitude",
      "mode": 0,
      "chara": [18],
+     "done": false
+    },
+    {"id": 2710,
+     "start": new Date(2018, 0, 2, 3, 0),
+     "end": new Date(2018, 0, 2, 3, 30),
+     "tz": 13,
+     "turn": 7,
+     "name": "Double Flash",
+     "mode": 0,
+     "chara": [258, 72],
      "done": false
     },
     {"id": 2555,
@@ -11619,7 +11629,7 @@ var datach = {
      "turn": 7,
      "name": "One bullet",
      "mode": 0,
-     "chara": [90, 253, 180, 300, 317, 316],
+     "chara": [90, 253, 180, 300, 317, 316, 304],
      "done": false
     },
     {"id": 2708,
@@ -11752,7 +11762,7 @@ var datach = {
      "name": "Особенности британского судопроизводства",
      "mode": 0,
      "chara": [11, 103, 299],
-     "done": false
+     "done": true
     },
     {"id": 2190,
      "start": new Date(2007, 6, 15, 0, 0),
