@@ -10278,7 +10278,7 @@ var datach = {
      "name": "Страсти по химчистке: Бонус за предзаказ",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2442,
      "start": new Date(2017, 11, 21, 2, 0),
@@ -11520,7 +11520,7 @@ var datach = {
      "name": "Heavy rain",
      "mode": 0,
      "chara": [193],
-     "done": false
+     "done": true
     },
     {"id": 2681,
      "start": new Date(2018, 0, 13, 9, 30),
@@ -11690,6 +11690,16 @@ var datach = {
      "name": "По последнему следу",
      "mode": 0,
      "chara": [292],
+     "done": false
+    },
+    {"id": 2712,
+     "start": new Date(2018, 0, 22, 6, 0),
+     "end": new Date(2018, 0, 22, 13, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Война Лапок",
+     "mode": 0,
+     "chara": [71],
      "done": false
     },
     {"id": 2661,
