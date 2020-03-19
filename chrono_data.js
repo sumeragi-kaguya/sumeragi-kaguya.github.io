@@ -10980,7 +10980,7 @@ var datach = {
      "name": "Spirit of the past",
      "mode": 0,
      "chara": [299],
-     "done": false
+     "done": true
     },
     {"id": 2551,
      "start": new Date(2018, 0, 3, 2, 30),
@@ -11700,6 +11700,16 @@ var datach = {
      "name": "Война Лапок",
      "mode": 0,
      "chara": [71],
+     "done": false
+    },
+    {"id": 2715,
+     "start": new Date(2018, 0, 22, 14, 1),
+     "end": new Date(2018, 0, 23, 13, 59),
+     "tz": 10,
+     "turn": 7,
+     "name": "Das Schwarze Geheimnis des Wei&#223;en Geistes",
+     "mode": 0,
+     "chara": [73, 311],
      "done": false
     },
     {"id": 2661,
