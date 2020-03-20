@@ -10979,7 +10979,7 @@ var datach = {
      "turn": 7,
      "name": "Spirit of the past",
      "mode": 0,
-     "chara": [299],
+     "chara": [103, 299],
      "done": true
     },
     {"id": 2551,
