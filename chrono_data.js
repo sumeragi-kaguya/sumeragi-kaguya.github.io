@@ -918,7 +918,7 @@ var datach = {
      "name": "Профессиональный риск охотников на буйвола",
      "mode": 0,
      "chara": [73],
-     "done": false
+     "done": true
     },
     {"id": 371,
      "start": new Date(2017, 7, 25, 4, 0),
@@ -5994,7 +5994,7 @@ var datach = {
      "name": "Лишь о тебе мои мысли",
      "mode": 0,
      "chara": [122, 121],
-     "done": false
+     "done": true
     },
     {"id": 1231,
      "start": new Date(2017, 9, 22, 5, 0),
@@ -7227,16 +7227,6 @@ var datach = {
      "mode": 0,
      "chara": [235, 74],
      "done": true
-    },
-    {"id": 2677,
-     "start": new Date(2017, 10, 9, 16, 0),
-     "end": new Date(2017, 10, 10, 12, 21),
-     "tz": 15,
-     "turn": 5,
-     "name": "Цель - Последователь",
-     "mode": 0,
-     "chara": [318, 319],
-     "done": false
     },
     {"id": 2110,
      "start": new Date(2017, 10, 9, 19, 0),
@@ -9730,16 +9720,6 @@ var datach = {
      "chara": [],
      "done": false
     },
-    {"id": 2494,
-     "start": new Date(2017, 11, 13, 13, 0),
-     "end": new Date(2017, 11, 13, 14, 0),
-     "tz": 7,
-     "turn": 6,
-     "name": "Покой нам только снится",
-     "mode": 0,
-     "chara": [276],
-     "done": false
-    },
     {"id": 2319,
      "start": new Date(2017, 11, 13, 20, 0),
      "end": new Date(2017, 11, 13, 22, 0),
@@ -11129,7 +11109,7 @@ var datach = {
      "turn": 7,
      "name": "Голоса",
      "mode": 0,
-     "chara": [26],
+     "chara": [26, 320],
      "done": false
     },
     {"id": 2647,
@@ -11320,6 +11300,16 @@ var datach = {
      "name": "Ливень в горах",
      "mode": 0,
      "chara": [18, 5, 61],
+     "done": false
+    },
+    {"id": 2716,
+     "start": new Date(2018, 0, 9, 20, 0),
+     "end": new Date(2018, 0, 9, 21, 0),
+     "tz": 1,
+     "turn": 7,
+     "name": "След упавшей звезды",
+     "mode": 0,
+     "chara": [103, 163],
      "done": false
     },
     {"id": 2628,
@@ -11532,6 +11522,16 @@ var datach = {
      "chara": [292, 129],
      "done": true
     },
+    {"id": 2719,
+     "start": new Date(2018, 0, 13, 18, 0),
+     "end": new Date(2018, 0, 13, 20, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Paddle your own canoe",
+     "mode": 0,
+     "chara": [18, 315],
+     "done": false
+    },
     {"id": 2670,
      "start": new Date(2018, 0, 13, 22, 45),
      "end": new Date(2018, 0, 14, 0, 30),
@@ -11629,7 +11629,7 @@ var datach = {
      "turn": 7,
      "name": "One bullet",
      "mode": 0,
-     "chara": [90, 253, 180, 300, 317, 316, 304],
+     "chara": [90, 253, 180, 300, 317, 316, 304, 129],
      "done": false
     },
     {"id": 2708,
@@ -11680,7 +11680,7 @@ var datach = {
      "name": "Все дороги ведут на войну",
      "mode": 0,
      "chara": [311],
-     "done": false
+     "done": true
     },
     {"id": 2686,
      "start": new Date(2018, 0, 20, 14, 30),
