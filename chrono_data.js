@@ -7176,7 +7176,7 @@ var datach = {
      "name": "Расправить крылья",
      "mode": 0,
      "chara": [7, 71],
-     "done": false
+     "done": true
     },
     {"id": 1742,
      "start": new Date(2017, 10, 9, 0, 0),
@@ -11082,6 +11082,26 @@ var datach = {
      "chara": [304],
      "done": true
     },
+    {"id": 2723,
+     "start": new Date(2018, 0, 5, 17, 0),
+     "end": new Date(2018, 0, 5, 18, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Разница во взглядах",
+     "mode": 0,
+     "chara": [313, 121],
+     "done": false
+    },
+    {"id": 2722,
+     "start": new Date(2018, 0, 5, 23, 0),
+     "end": new Date(2018, 0, 6, 6, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Груз 100",
+     "mode": 0,
+     "chara": [177, 326],
+     "done": false
+    },
     {"id": 2641,
      "start": new Date(2018, 0, 5, 23, 0),
      "end": new Date(2018, 0, 6, 10, 0),
@@ -11180,6 +11200,16 @@ var datach = {
      "name": "Морская капуста",
      "mode": 0,
      "chara": [72, 216, 295, 294, 10],
+     "done": false
+    },
+    {"id": 2724,
+     "start": new Date(2018, 0, 7, 16, 0),
+     "end": new Date(2018, 0, 8, 7, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Была бы попа - приключение найдется!",
+     "mode": 0,
+     "chara": [],
      "done": false
     },
     {"id": 2559,
@@ -11592,6 +11622,16 @@ var datach = {
      "chara": [90],
      "done": true
     },
+    {"id": 2721,
+     "start": new Date(2018, 0, 15, 10, 0),
+     "end": new Date(2018, 0, 15, 14, 0),
+     "tz": 8,
+     "turn": 7,
+     "name": "Слон в малиннике",
+     "mode": 0,
+     "chara": [315],
+     "done": false
+    },
     {"id": 2662,
      "start": new Date(2018, 0, 15, 11, 0),
      "end": new Date(2018, 0, 15, 13, 0),
@@ -11660,7 +11700,7 @@ var datach = {
      "name": "Портовые байки",
      "mode": 0,
      "chara": [308],
-     "done": false
+     "done": true
     },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
