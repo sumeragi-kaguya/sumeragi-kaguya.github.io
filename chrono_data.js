@@ -9041,9 +9041,9 @@ var datach = {
      "done": true
     },
     {"id": 2145,
-     "start": new Date(2017, 11, 7, 9, 0),
-     "end": new Date(2017, 11, 7, 10, 0),
-     "tz": 0,
+     "start": new Date(2017, 11, 7, 0, 0),
+     "end": new Date(2017, 11, 7, 1, 0),
+     "tz": 9,
      "turn": 6,
      "name": "Фреш",
      "mode": 1,
