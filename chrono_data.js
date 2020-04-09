@@ -8990,6 +8990,16 @@ var datach = {
      "chara": [28, 192],
      "done": false
     },
+    {"id": 2145,
+     "start": new Date(2017, 11, 7, 0, 0),
+     "end": new Date(2017, 11, 7, 1, 0),
+     "tz": 9,
+     "turn": 6,
+     "name": "Фреш",
+     "mode": 1,
+     "chara": [74, 273, 161, 272],
+     "done": true
+    },
     {"id": 2154,
      "start": new Date(2017, 11, 7, 3, 34),
      "end": new Date(2017, 11, 7, 4, 45),
@@ -9040,16 +9050,6 @@ var datach = {
      "chara": [90],
      "done": true
     },
-    {"id": 2145,
-     "start": new Date(2017, 11, 7, 0, 0),
-     "end": new Date(2017, 11, 7, 1, 0),
-     "tz": 9,
-     "turn": 6,
-     "name": "Фреш",
-     "mode": 1,
-     "chara": [74, 273, 161, 272],
-     "done": true
-    },
     {"id": 2002,
      "start": new Date(2017, 11, 7, 11, 0),
      "end": new Date(2017, 11, 7, 13, 0),
@@ -9059,6 +9059,16 @@ var datach = {
      "mode": 0,
      "chara": [],
      "done": true
+    },
+    {"id": 2728,
+     "start": new Date(2017, 11, 7, 12, 0),
+     "end": new Date(2017, 11, 7, 13, 40),
+     "tz": 9,
+     "turn": 6,
+     "name": "Nunnally in Wonderland",
+     "mode": 0,
+     "chara": [7],
+     "done": false
     },
     {"id": 2427,
      "start": new Date(2017, 11, 7, 12, 0),
@@ -9778,7 +9788,7 @@ var datach = {
      "name": "Хлеба и зрелищ",
      "mode": 0,
      "chara": [96, 90, 278, 212],
-     "done": false
+     "done": true
     },
     {"id": 2390,
      "start": new Date(2017, 11, 14, 10, 0),
@@ -9798,7 +9808,7 @@ var datach = {
      "name": "Карфаген",
      "mode": 0,
      "chara": [96, 90],
-     "done": false
+     "done": true
     },
     {"id": 2187,
      "start": new Date(2017, 11, 14, 17, 0),
@@ -10127,7 +10137,7 @@ var datach = {
      "turn": 6,
      "name": "Unbrick",
      "mode": 0,
-     "chara": [],
+     "chara": [272],
      "done": false
     },
     {"id": 2278,
@@ -10840,6 +10850,16 @@ var datach = {
      "chara": [298],
      "done": true
     },
+    {"id": 2726,
+     "start": new Date(2017, 11, 31, 10, 0),
+     "end": new Date(2017, 11, 31, 11, 0),
+     "tz": 10,
+     "turn": 6,
+     "name": "Не вели меня казнить",
+     "mode": 0,
+     "chara": [96, 90],
+     "done": false
+    },
     {"id": 2678,
      "start": new Date(2017, 11, 31, 11, 30),
      "end": new Date(2017, 11, 31, 14, 30),
@@ -11090,7 +11110,7 @@ var datach = {
      "name": "Разница во взглядах",
      "mode": 0,
      "chara": [313, 121],
-     "done": false
+     "done": true
     },
     {"id": 2722,
      "start": new Date(2018, 0, 5, 23, 0),
@@ -11180,7 +11200,7 @@ var datach = {
      "name": "Ботинки для колосса",
      "mode": 0,
      "chara": [268],
-     "done": false
+     "done": true
     },
     {"id": 2642,
      "start": new Date(2018, 0, 7, 11, 0),
@@ -11342,6 +11362,16 @@ var datach = {
      "chara": [103, 163],
      "done": false
     },
+    {"id": 2725,
+     "start": new Date(2018, 0, 9, 22, 0),
+     "end": new Date(2018, 0, 10, 0, 0),
+     "tz": 12,
+     "turn": 7,
+     "name": "Statutum Armorum",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2628,
      "start": new Date(2018, 0, 9, 22, 0),
      "end": new Date(2018, 0, 10, 0, 0),
@@ -11451,6 +11481,16 @@ var datach = {
      "mode": 0,
      "chara": [292, 129],
      "done": true
+    },
+    {"id": 2729,
+     "start": new Date(2018, 0, 11, 3, 0),
+     "end": new Date(2018, 0, 11, 6, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Her lips were the colour of the roses",
+     "mode": 0,
+     "chara": [313, 146],
+     "done": false
     },
     {"id": 2707,
      "start": new Date(2018, 0, 11, 4, 0),
@@ -11660,7 +11700,7 @@ var datach = {
      "name": "Новый день",
      "mode": 0,
      "chara": [88, 270],
-     "done": false
+     "done": true
     },
     {"id": 2697,
      "start": new Date(2018, 0, 17, 4, 0),
@@ -11760,6 +11800,16 @@ var datach = {
      "name": "Viper's creed",
      "mode": 0,
      "chara": [193, 73],
+     "done": false
+    },
+    {"id": 2727,
+     "start": new Date(2018, 11, 30, 8, 0),
+     "end": new Date(2018, 11, 30, 9, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Мозгоправ",
+     "mode": 0,
+     "chara": [96, 278],
      "done": false
     }
   ],
