@@ -18,7 +18,7 @@ var datach = {
      "name": "Мне на круг не хватает мела",
      "mode": 0,
      "chara": [290],
-     "done": false
+     "done": true
     },
     {"id": 306,
      "start": new Date(2017, 6, 22, 6, 0),
@@ -9730,6 +9730,16 @@ var datach = {
      "chara": [],
      "done": false
     },
+    {"id": 2296,
+     "start": new Date(2017, 11, 13, 15, 0),
+     "end": new Date(2017, 11, 13, 23, 0),
+     "tz": 0,
+     "turn": 6,
+     "name": "Праздник, который всегда с тобой",
+     "mode": 0,
+     "chara": [119],
+     "done": false
+    },
     {"id": 2319,
      "start": new Date(2017, 11, 13, 20, 0),
      "end": new Date(2017, 11, 13, 22, 0),
@@ -10088,7 +10098,7 @@ var datach = {
      "name": "Вечерние курсы для куноичи",
      "mode": 0,
      "chara": [320, 26],
-     "done": false
+     "done": true
     },
     {"id": 2504,
      "start": new Date(2017, 11, 19, 7, 30),
@@ -10688,7 +10698,7 @@ var datach = {
      "name": " Пикник на обочине",
      "mode": 0,
      "chara": [26, 72, 258, 277],
-     "done": false
+     "done": true
     },
     {"id": 2232,
      "start": new Date(2017, 11, 26, 22, 0),
@@ -10748,7 +10758,7 @@ var datach = {
      "name": "Тяжело в лечении - легко в раю",
      "mode": 0,
      "chara": [303, 28],
-     "done": false
+     "done": true
     },
     {"id": 2397,
      "start": new Date(2017, 11, 28, 3, 43),
@@ -10789,6 +10799,16 @@ var datach = {
      "mode": 0,
      "chara": [29, 278, 265],
      "done": true
+    },
+    {"id": 2727,
+     "start": new Date(2017, 11, 30, 8, 0),
+     "end": new Date(2017, 11, 30, 9, 0),
+     "tz": 10,
+     "turn": 6,
+     "name": "Мозгоправ",
+     "mode": 0,
+     "chara": [96, 278],
+     "done": false
     },
     {"id": 2510,
      "start": new Date(2017, 11, 30, 14, 0),
@@ -10970,6 +10990,16 @@ var datach = {
      "name": "Забытые",
      "mode": 0,
      "chara": [314],
+     "done": false
+    },
+    {"id": 2731,
+     "start": new Date(2018, 0, 2, 19, 30),
+     "end": new Date(2018, 0, 2, 21, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Моя Эвридика",
+     "mode": 0,
+     "chara": [290],
      "done": false
     },
     {"id": 2498,
@@ -11160,7 +11190,7 @@ var datach = {
      "name": "И грянул гром",
      "mode": 0,
      "chara": [314],
-     "done": false
+     "done": true
     },
     {"id": 2558,
      "start": new Date(2018, 0, 7, 1, 0),
@@ -11369,7 +11399,7 @@ var datach = {
      "turn": 7,
      "name": "Statutum Armorum",
      "mode": 0,
-     "chara": [],
+     "chara": [72, 115],
      "done": false
     },
     {"id": 2628,
@@ -11432,6 +11462,16 @@ var datach = {
      "chara": [309, 322],
      "done": false
     },
+    {"id": 2736,
+     "start": new Date(2018, 0, 10, 4, 0),
+     "end": new Date(2018, 0, 10, 7, 0),
+     "tz": 8,
+     "turn": 7,
+     "name": "Хлебом и солью",
+     "mode": 0,
+     "chara": [268],
+     "done": false
+    },
     {"id": 2649,
      "start": new Date(2018, 0, 10, 7, 0),
      "end": new Date(2018, 0, 10, 9, 0),
@@ -11472,6 +11512,16 @@ var datach = {
      "chara": [305, 302],
      "done": true
     },
+    {"id": 2730,
+     "start": new Date(2018, 0, 10, 14, 35),
+     "end": new Date(2018, 0, 10, 15, 40),
+     "tz": 2,
+     "turn": 7,
+     "name": "Поезд сделал бум",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2639,
      "start": new Date(2018, 0, 11, 0, 0),
      "end": new Date(2018, 0, 11, 2, 0),
@@ -11490,16 +11540,6 @@ var datach = {
      "name": "Her lips were the colour of the roses",
      "mode": 0,
      "chara": [313, 146],
-     "done": false
-    },
-    {"id": 2707,
-     "start": new Date(2018, 0, 11, 4, 0),
-     "end": new Date(2018, 0, 11, 11, 0),
-     "tz": 12,
-     "turn": 7,
-     "name": "Белый снег, серый лёд",
-     "mode": 0,
-     "chara": [323],
      "done": false
     },
     {"id": 2665,
@@ -11692,6 +11732,26 @@ var datach = {
      "chara": [86, 3, 4, 250],
      "done": false
     },
+    {"id": 2735,
+     "start": new Date(2018, 0, 16, 1, 25),
+     "end": new Date(2018, 0, 16, 6, 0),
+     "tz": 4,
+     "turn": 7,
+     "name": "Где прячутся лисы?",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
+    {"id": 2738,
+     "start": new Date(2018, 0, 16, 9, 0),
+     "end": new Date(2018, 0, 16, 12, 45),
+     "tz": 1,
+     "turn": 7,
+     "name": "Неволя",
+     "mode": 0,
+     "chara": [314, 270],
+     "done": false
+    },
     {"id": 2698,
      "start": new Date(2018, 0, 16, 12, 0),
      "end": new Date(2018, 0, 16, 16, 0),
@@ -11742,6 +11802,16 @@ var datach = {
      "chara": [308],
      "done": true
     },
+    {"id": 2734,
+     "start": new Date(2018, 0, 19, 9, 0),
+     "end": new Date(2018, 0, 19, 11, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Наступить змее на хвост",
+     "mode": 0,
+     "chara": [317, 316],
+     "done": false
+    },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
      "end": new Date(2018, 0, 20, 21, 0),
@@ -11762,6 +11832,16 @@ var datach = {
      "chara": [311],
      "done": true
     },
+    {"id": 2737,
+     "start": new Date(2018, 0, 20, 5, 0),
+     "end": new Date(2018, 0, 20, 10, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Тень Распутина",
+     "mode": 0,
+     "chara": [300, 182],
+     "done": false
+    },
     {"id": 2686,
      "start": new Date(2018, 0, 20, 14, 30),
      "end": new Date(2018, 0, 20, 15, 30),
@@ -11770,7 +11850,7 @@ var datach = {
      "name": "По последнему следу",
      "mode": 0,
      "chara": [292],
-     "done": false
+     "done": true
     },
     {"id": 2712,
      "start": new Date(2018, 0, 22, 6, 0),
@@ -11800,16 +11880,6 @@ var datach = {
      "name": "Viper's creed",
      "mode": 0,
      "chara": [193, 73],
-     "done": false
-    },
-    {"id": 2727,
-     "start": new Date(2018, 11, 30, 8, 0),
-     "end": new Date(2018, 11, 30, 9, 0),
-     "tz": 10,
-     "turn": 7,
-     "name": "Мозгоправ",
-     "mode": 0,
-     "chara": [96, 278],
      "done": false
     }
   ],
