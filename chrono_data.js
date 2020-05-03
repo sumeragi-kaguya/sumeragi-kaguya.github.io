@@ -10467,7 +10467,7 @@ var datach = {
      "turn": 6,
      "name": "Brave New World",
      "mode": 0,
-     "chara": [],
+     "chara": [49],
      "done": false
     },
     {"id": 2489,
@@ -11560,7 +11560,7 @@ var datach = {
      "name": "Her lips were the colour of the roses",
      "mode": 0,
      "chara": [313, 146],
-     "done": false
+     "done": true
     },
     {"id": 2665,
      "start": new Date(2018, 0, 11, 8, 0),
@@ -11682,6 +11682,16 @@ var datach = {
      "chara": [305, 58],
      "done": false
     },
+    {"id": 2745,
+     "start": new Date(2018, 0, 14, 18, 0),
+     "end": new Date(2018, 0, 14, 19, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Выход из-под контроля",
+     "mode": 0,
+     "chara": [313],
+     "done": false
+    },
     {"id": 2626,
      "start": new Date(2018, 0, 14, 19, 15),
      "end": new Date(2018, 0, 14, 21, 30),
@@ -11782,6 +11792,16 @@ var datach = {
      "chara": [88, 270],
      "done": true
     },
+    {"id": 2744,
+     "start": new Date(2018, 0, 17, 2, 0),
+     "end": new Date(2018, 0, 17, 3, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Ва-банк",
+     "mode": 0,
+     "chara": [146],
+     "done": false
+    },
     {"id": 2697,
      "start": new Date(2018, 0, 17, 4, 0),
      "end": new Date(2018, 0, 17, 8, 0),
@@ -11831,6 +11851,16 @@ var datach = {
      "mode": 0,
      "chara": [308],
      "done": true
+    },
+    {"id": 2743,
+     "start": new Date(2018, 0, 18, 3, 30),
+     "end": new Date(2018, 0, 18, 7, 0),
+     "tz": 1,
+     "turn": 7,
+     "name": "Нет времени для танго",
+     "mode": 0,
+     "chara": [308],
+     "done": false
     },
     {"id": 2734,
      "start": new Date(2018, 0, 19, 9, 0),
