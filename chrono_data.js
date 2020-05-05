@@ -11782,6 +11782,16 @@ var datach = {
      "chara": [],
      "done": false
     },
+    {"id": 2747,
+     "start": new Date(2018, 0, 16, 1, 30),
+     "end": new Date(2018, 0, 16, 2, 30),
+     "tz": 0,
+     "turn": 7,
+     "name": "Misconduct",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2698,
      "start": new Date(2018, 0, 16, 12, 0),
      "end": new Date(2018, 0, 16, 16, 0),
@@ -11800,7 +11810,7 @@ var datach = {
      "name": "Ва-банк",
      "mode": 0,
      "chara": [146],
-     "done": false
+     "done": true
     },
     {"id": 2697,
      "start": new Date(2018, 0, 17, 4, 0),
@@ -11854,7 +11864,7 @@ var datach = {
     },
     {"id": 2743,
      "start": new Date(2018, 0, 18, 3, 30),
-     "end": new Date(2018, 0, 18, 7, 0),
+     "end": new Date(2018, 0, 18, 11, 0),
      "tz": 1,
      "turn": 7,
      "name": "Нет времени для танго",
