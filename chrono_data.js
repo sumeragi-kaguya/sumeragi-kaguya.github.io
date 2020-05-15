@@ -9108,7 +9108,7 @@ var datach = {
      "name": "A little braver",
      "mode": 0,
      "chara": [40, 18],
-     "done": false
+     "done": true
     },
     {"id": 1967,
      "start": new Date(2017, 11, 7, 16, 0),
@@ -11774,7 +11774,7 @@ var datach = {
     },
     {"id": 2735,
      "start": new Date(2018, 0, 16, 1, 25),
-     "end": new Date(2018, 0, 16, 6, 0),
+     "end": new Date(2018, 0, 16, 11, 0),
      "tz": 4,
      "turn": 7,
      "name": "Где прячутся лисы?",
@@ -11820,6 +11820,16 @@ var datach = {
      "name": "One bullet",
      "mode": 0,
      "chara": [90, 253, 180, 300, 317, 316, 304, 129],
+     "done": false
+    },
+    {"id": 2748,
+     "start": new Date(2018, 0, 17, 7, 0),
+     "end": new Date(2018, 0, 17, 10, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Shake it up",
+     "mode": 0,
+     "chara": [328],
      "done": false
     },
     {"id": 2738,
