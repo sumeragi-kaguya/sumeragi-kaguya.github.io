@@ -9238,7 +9238,7 @@ var datach = {
      "name": "Остывший глинтвейн",
      "mode": 0,
      "chara": [18, 121],
-     "done": false
+     "done": true
     },
     {"id": 2008,
      "start": new Date(2017, 11, 8, 20, 0),
@@ -9368,7 +9368,7 @@ var datach = {
      "name": "Благородное наследие",
      "mode": 0,
      "chara": [11, 18],
-     "done": false
+     "done": true
     },
     {"id": 2318,
      "start": new Date(2017, 11, 9, 20, 0),
@@ -11162,6 +11162,16 @@ var datach = {
      "chara": [313, 121],
      "done": true
     },
+    {"id": 2753,
+     "start": new Date(2018, 0, 5, 20, 0),
+     "end": new Date(2018, 0, 5, 22, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Мистер Пропер",
+     "mode": 0,
+     "chara": [289],
+     "done": false
+    },
     {"id": 2722,
      "start": new Date(2018, 0, 5, 23, 0),
      "end": new Date(2018, 0, 6, 6, 0),
@@ -11652,16 +11662,6 @@ var datach = {
      "chara": [292, 129],
      "done": true
     },
-    {"id": 2719,
-     "start": new Date(2018, 0, 13, 18, 0),
-     "end": new Date(2018, 0, 13, 20, 0),
-     "tz": 16,
-     "turn": 7,
-     "name": "Paddle your own canoe",
-     "mode": 0,
-     "chara": [18, 315],
-     "done": false
-    },
     {"id": 2670,
      "start": new Date(2018, 0, 13, 22, 45),
      "end": new Date(2018, 0, 14, 0, 30),
@@ -11690,7 +11690,7 @@ var datach = {
      "name": "Выход из-под контроля",
      "mode": 0,
      "chara": [313],
-     "done": false
+     "done": true
     },
     {"id": 2626,
      "start": new Date(2018, 0, 14, 19, 15),
@@ -11721,6 +11721,16 @@ var datach = {
      "mode": 0,
      "chara": [300],
      "done": true
+    },
+    {"id": 2751,
+     "start": new Date(2018, 0, 15, 4, 0),
+     "end": new Date(2018, 0, 15, 6, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "9.9 по шкале Рихтера",
+     "mode": 0,
+     "chara": [18, 5, 66, 313, 121],
+     "done": false
     },
     {"id": 2674,
      "start": new Date(2018, 0, 15, 4, 0),
@@ -11802,6 +11812,16 @@ var datach = {
      "chara": [88, 270],
      "done": true
     },
+    {"id": 2719,
+     "start": new Date(2018, 0, 16, 18, 0),
+     "end": new Date(2018, 0, 16, 20, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Paddle your own canoe",
+     "mode": 0,
+     "chara": [18, 315],
+     "done": false
+    },
     {"id": 2744,
      "start": new Date(2018, 0, 17, 2, 0),
      "end": new Date(2018, 0, 17, 3, 0),
@@ -11880,6 +11900,36 @@ var datach = {
      "name": "Нет времени для танго",
      "mode": 0,
      "chara": [308],
+     "done": false
+    },
+    {"id": 2755,
+     "start": new Date(2018, 0, 18, 7, 0),
+     "end": new Date(2018, 0, 19, 0, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Right Here Waiting",
+     "mode": 0,
+     "chara": [304],
+     "done": false
+    },
+    {"id": 2754,
+     "start": new Date(2018, 0, 18, 15, 0),
+     "end": new Date(2018, 0, 18, 18, 0),
+     "tz": 3,
+     "turn": 7,
+     "name": "Кофейный бум",
+     "mode": 0,
+     "chara": [319],
+     "done": false
+    },
+    {"id": 2752,
+     "start": new Date(2018, 0, 18, 16, 0),
+     "end": new Date(2018, 0, 18, 17, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Свидетель №1",
+     "mode": 0,
+     "chara": [],
      "done": false
     },
     {"id": 2734,
@@ -12543,6 +12593,16 @@ var datach = {
      "mode": 0,
      "chara": [63],
      "done": true
+    },
+    {"id": 2750,
+     "start": new Date(2016, 4, 3, 0, 0),
+     "end": new Date(2016, 4, 5, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Mascara: Bloodpath",
+     "mode": 0,
+     "chara": [328],
+     "done": false
     },
     {"id": 2422,
      "start": new Date(2016, 4, 14, 0, 0),
