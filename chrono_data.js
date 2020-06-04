@@ -10580,6 +10580,16 @@ var datach = {
      "chara": [299, 236],
      "done": false
     },
+    {"id": 2763,
+     "start": new Date(2017, 11, 25, 0, 0),
+     "end": new Date(2017, 11, 25, 19, 0),
+     "tz": 0,
+     "turn": 6,
+     "name": "В своих руках он держал ее душу",
+     "mode": 0,
+     "chara": [272],
+     "done": false
+    },
     {"id": 2376,
      "start": new Date(2017, 11, 25, 0, 0),
      "end": new Date(2017, 11, 25, 2, 0),
@@ -11830,7 +11840,7 @@ var datach = {
      "name": "Misconduct",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2761,
      "start": new Date(2018, 0, 16, 2, 0),
@@ -12002,6 +12012,16 @@ var datach = {
      "chara": [311],
      "done": true
     },
+    {"id": 2765,
+     "start": new Date(2018, 0, 20, 3, 0),
+     "end": new Date(2018, 0, 20, 5, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Сезон Дождей",
+     "mode": 0,
+     "chara": [128, 329],
+     "done": false
+    },
     {"id": 2737,
      "start": new Date(2018, 0, 20, 5, 0),
      "end": new Date(2018, 0, 20, 10, 0),
@@ -12010,7 +12030,7 @@ var datach = {
      "name": "Тень Распутина",
      "mode": 0,
      "chara": [300, 182],
-     "done": false
+     "done": true
     },
     {"id": 2686,
      "start": new Date(2018, 0, 20, 14, 30),
@@ -12030,7 +12050,7 @@ var datach = {
      "name": "Война Лапок",
      "mode": 0,
      "chara": [71],
-     "done": false
+     "done": true
     },
     {"id": 2715,
      "start": new Date(2018, 0, 22, 14, 1),
