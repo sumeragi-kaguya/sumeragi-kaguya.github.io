@@ -9227,7 +9227,7 @@ var datach = {
      "turn": 6,
      "name": "Воссоединение",
      "mode": 0,
-     "chara": [295, 294],
+     "chara": [],
      "done": false
     },
     {"id": 2466,
@@ -10468,7 +10468,7 @@ var datach = {
      "name": "Brave New World",
      "mode": 0,
      "chara": [49],
-     "done": false
+     "done": true
     },
     {"id": 2489,
      "start": new Date(2017, 11, 23, 23, 0),
@@ -10582,13 +10582,13 @@ var datach = {
     },
     {"id": 2763,
      "start": new Date(2017, 11, 25, 0, 0),
-     "end": new Date(2017, 11, 25, 19, 0),
+     "end": new Date(2017, 11, 25, 4, 0),
      "tz": 0,
      "turn": 6,
      "name": "В своих руках он держал ее душу",
      "mode": 0,
      "chara": [272],
-     "done": false
+     "done": true
     },
     {"id": 2376,
      "start": new Date(2017, 11, 25, 0, 0),
@@ -11082,6 +11082,16 @@ var datach = {
      "chara": [36, 189],
      "done": true
     },
+    {"id": 2766,
+     "start": new Date(2018, 0, 4, 7, 0),
+     "end": new Date(2018, 0, 4, 9, 0),
+     "tz": 11,
+     "turn": 7,
+     "name": "Модернизация, инновация, дежавю",
+     "mode": 0,
+     "chara": [295, 87, 111],
+     "done": false
+    },
     {"id": 2630,
      "start": new Date(2018, 0, 4, 17, 30),
      "end": new Date(2018, 0, 4, 18, 30),
@@ -11229,7 +11239,7 @@ var datach = {
      "turn": 7,
      "name": "Голоса",
      "mode": 0,
-     "chara": [26, 320],
+     "chara": [310, 26, 320],
      "done": false
     },
     {"id": 2647,
@@ -11299,7 +11309,7 @@ var datach = {
      "turn": 7,
      "name": "Морская капуста",
      "mode": 0,
-     "chara": [72, 216, 295, 294, 10],
+     "chara": [72, 216, 10],
      "done": false
     },
     {"id": 2724,
@@ -12311,7 +12321,7 @@ var datach = {
      "turn": 0,
      "name": "Primo Victoria",
      "mode": 0,
-     "chara": [11, 40],
+     "chara": [11, 310, 40],
      "done": false
     },
     {"id": 2554,
