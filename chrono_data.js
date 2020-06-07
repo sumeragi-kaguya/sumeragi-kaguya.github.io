@@ -9227,7 +9227,7 @@ var datach = {
      "turn": 6,
      "name": "Воссоединение",
      "mode": 0,
-     "chara": [],
+     "chara": [295, 294],
      "done": false
     },
     {"id": 2466,
@@ -11309,7 +11309,7 @@ var datach = {
      "turn": 7,
      "name": "Морская капуста",
      "mode": 0,
-     "chara": [72, 216, 10],
+     "chara": [72, 216, 295, 294, 10],
      "done": false
     },
     {"id": 2724,
