@@ -11900,7 +11900,7 @@ var datach = {
      "name": "One bullet",
      "mode": 0,
      "chara": [90, 253, 180, 300, 317, 316, 304, 129],
-     "done": false
+     "done": true
     },
     {"id": 2748,
      "start": new Date(2018, 0, 17, 7, 0),
@@ -11910,7 +11910,7 @@ var datach = {
      "name": "Shake it up",
      "mode": 0,
      "chara": [328],
-     "done": false
+     "done": true
     },
     {"id": 2738,
      "start": new Date(2018, 0, 17, 9, 0),
@@ -11992,6 +11992,16 @@ var datach = {
      "chara": [],
      "done": false
     },
+    {"id": 2769,
+     "start": new Date(2018, 0, 19, 4, 0),
+     "end": new Date(2018, 0, 19, 6, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "(А)моральные вопросы",
+     "mode": 0,
+     "chara": [313, 146],
+     "done": false
+    },
     {"id": 2734,
      "start": new Date(2018, 0, 19, 9, 0),
      "end": new Date(2018, 0, 19, 11, 0),
@@ -12052,6 +12062,26 @@ var datach = {
      "chara": [292],
      "done": true
     },
+    {"id": 2767,
+     "start": new Date(2018, 0, 21, 13, 0),
+     "end": new Date(2018, 0, 21, 18, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Элитные раздолбаи",
+     "mode": 0,
+     "chara": [328],
+     "done": false
+    },
+    {"id": 2771,
+     "start": new Date(2018, 0, 21, 15, 0),
+     "end": new Date(2018, 0, 22, 3, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Попутчик",
+     "mode": 0,
+     "chara": [300],
+     "done": false
+    },
     {"id": 2712,
      "start": new Date(2018, 0, 22, 6, 0),
      "end": new Date(2018, 0, 22, 13, 0),
@@ -12062,6 +12092,16 @@ var datach = {
      "chara": [71],
      "done": true
     },
+    {"id": 2770,
+     "start": new Date(2018, 0, 22, 6, 0),
+     "end": new Date(2018, 0, 22, 8, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Отголоски величия",
+     "mode": 0,
+     "chara": [182],
+     "done": false
+    },
     {"id": 2715,
      "start": new Date(2018, 0, 22, 14, 1),
      "end": new Date(2018, 0, 23, 13, 59),
@@ -12070,6 +12110,16 @@ var datach = {
      "name": "Das Schwarze Geheimnis des Wei&#223;en Geistes",
      "mode": 0,
      "chara": [73, 311],
+     "done": false
+    },
+    {"id": 2772,
+     "start": new Date(2018, 0, 22, 20, 0),
+     "end": new Date(2018, 0, 22, 22, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Проходной двор",
+     "mode": 0,
+     "chara": [18, 98, 328],
      "done": false
     },
     {"id": 2661,
