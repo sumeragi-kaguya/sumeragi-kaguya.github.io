@@ -7986,7 +7986,7 @@ var datach = {
      "name": " Много вопросов - мало ответов",
      "mode": 0,
      "chara": [11, 327],
-     "done": false
+     "done": true
     },
     {"id": 1650,
      "start": new Date(2017, 10, 22, 22, 0),
@@ -11300,7 +11300,7 @@ var datach = {
      "name": "Первое правило бойцовского клуба",
      "mode": 0,
      "chara": [283, 282, 290],
-     "done": false
+     "done": true
     },
     {"id": 2592,
      "start": new Date(2018, 0, 7, 14, 0),
@@ -11320,6 +11320,26 @@ var datach = {
      "name": "Была бы попа - приключение найдется!",
      "mode": 0,
      "chara": [],
+     "done": false
+    },
+    {"id": 2775,
+     "start": new Date(2018, 0, 7, 16, 0),
+     "end": new Date(2018, 0, 7, 17, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Доброй ночи",
+     "mode": 0,
+     "chara": [290, 84],
+     "done": true
+    },
+    {"id": 2781,
+     "start": new Date(2018, 0, 7, 16, 0),
+     "end": new Date(2018, 0, 7, 17, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Не будите во мне беса!",
+     "mode": 0,
+     "chara": [283, 282],
      "done": false
     },
     {"id": 2559,
@@ -11371,6 +11391,16 @@ var datach = {
      "mode": 0,
      "chara": [90],
      "done": true
+    },
+    {"id": 2776,
+     "start": new Date(2018, 0, 8, 11, 0),
+     "end": new Date(2018, 0, 8, 16, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "For a rainy day",
+     "mode": 0,
+     "chara": [122],
+     "done": false
     },
     {"id": 2600,
      "start": new Date(2018, 0, 8, 16, 0),
@@ -11520,7 +11550,7 @@ var datach = {
      "name": "Связанные одной цепью",
      "mode": 0,
      "chara": [309, 322],
-     "done": false
+     "done": true
     },
     {"id": 2736,
      "start": new Date(2018, 0, 10, 4, 0),
@@ -11530,6 +11560,16 @@ var datach = {
      "name": "Хлебом и солью",
      "mode": 0,
      "chara": [268],
+     "done": false
+    },
+    {"id": 2780,
+     "start": new Date(2018, 0, 10, 7, 0),
+     "end": new Date(2018, 0, 10, 8, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Connection",
+     "mode": 0,
+     "chara": [309, 322],
      "done": false
     },
     {"id": 2649,
@@ -11710,7 +11750,7 @@ var datach = {
      "name": "Alone we have no future",
      "mode": 0,
      "chara": [305, 58],
-     "done": false
+     "done": true
     },
     {"id": 2745,
      "start": new Date(2018, 0, 14, 18, 0),
@@ -11812,6 +11852,16 @@ var datach = {
      "chara": [315],
      "done": false
     },
+    {"id": 2773,
+     "start": new Date(2018, 0, 15, 10, 0),
+     "end": new Date(2018, 0, 15, 12, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Тьма после полуночи",
+     "mode": 0,
+     "chara": [122, 49],
+     "done": false
+    },
     {"id": 2662,
      "start": new Date(2018, 0, 15, 11, 0),
      "end": new Date(2018, 0, 15, 13, 0),
@@ -11860,6 +11910,16 @@ var datach = {
      "name": "Невыносимая четкость бытия",
      "mode": 0,
      "chara": [1],
+     "done": false
+    },
+    {"id": 2779,
+     "start": new Date(2018, 0, 16, 11, 0),
+     "end": new Date(2018, 0, 16, 16, 0),
+     "tz": 7,
+     "turn": 7,
+     "name": "Один последний взмах крыльев",
+     "mode": 0,
+     "chara": [305],
      "done": false
     },
     {"id": 2698,
@@ -12061,6 +12121,16 @@ var datach = {
      "mode": 0,
      "chara": [292],
      "done": true
+    },
+    {"id": 2782,
+     "start": new Date(2018, 0, 21, 7, 0),
+     "end": new Date(2018, 0, 21, 12, 0),
+     "tz": 8,
+     "turn": 7,
+     "name": "Предложение, от которого можно отказаться",
+     "mode": 0,
+     "chara": [292],
+     "done": false
     },
     {"id": 2767,
      "start": new Date(2018, 0, 21, 13, 0),
@@ -12712,7 +12782,7 @@ var datach = {
      "name": "Арабская ночь",
      "mode": 0,
      "chara": [313, 328],
-     "done": false
+     "done": true
     },
     {"id": 1152,
      "start": new Date(2016, 3, 10, 0, 0),
@@ -12731,7 +12801,7 @@ var datach = {
      "turn": 0,
      "name": "Mascara: Bloodpath",
      "mode": 0,
-     "chara": [328],
+     "chara": [328, 193],
      "done": false
     },
     {"id": 2422,
