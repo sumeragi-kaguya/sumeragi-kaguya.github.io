@@ -11359,7 +11359,7 @@ var datach = {
      "turn": 7,
      "name": "Вежливый британский Лось",
      "mode": 0,
-     "chara": [],
+     "chara": [312],
      "done": true
     },
     {"id": 2532,
