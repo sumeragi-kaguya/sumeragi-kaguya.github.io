@@ -10861,8 +10861,8 @@ var datach = {
      "done": true
     },
     {"id": 2484,
-     "start": new Date(2017, 11, 31, 2, 0),
-     "end": new Date(2017, 11, 31, 5, 0),
+     "start": new Date(2017, 11, 17, 18, 0),
+     "end": new Date(2017, 11, 17, 21, 0),
      "tz": 16,
      "turn": 6,
      "name": "Закулисье: часть четвёртая",
