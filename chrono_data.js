@@ -9748,7 +9748,7 @@ var datach = {
      "name": "Праздник, который всегда с тобой",
      "mode": 0,
      "chara": [119],
-     "done": false
+     "done": true
     },
     {"id": 2319,
      "start": new Date(2017, 11, 13, 20, 0),
@@ -10038,6 +10038,16 @@ var datach = {
      "name": "Magia",
      "mode": 0,
      "chara": [1, 258],
+     "done": true
+    },
+    {"id": 2484,
+     "start": new Date(2017, 11, 17, 18, 0),
+     "end": new Date(2017, 11, 17, 21, 0),
+     "tz": 16,
+     "turn": 6,
+     "name": "Закулисье: часть четвёртая",
+     "mode": 1,
+     "chara": [],
      "done": true
     },
     {"id": 2379,
@@ -10478,7 +10488,7 @@ var datach = {
      "name": "Витражи цвета лжи",
      "mode": 0,
      "chara": [18, 34],
-     "done": false
+     "done": true
     },
     {"id": 2441,
      "start": new Date(2017, 11, 24, 0, 0),
@@ -10860,16 +10870,6 @@ var datach = {
      "chara": [300],
      "done": true
     },
-    {"id": 2484,
-     "start": new Date(2017, 11, 17, 18, 0),
-     "end": new Date(2017, 11, 17, 21, 0),
-     "tz": 16,
-     "turn": 6,
-     "name": "Закулисье: часть четвёртая",
-     "mode": 1,
-     "chara": [],
-     "done": true
-    },
     {"id": 2542,
      "start": new Date(2017, 11, 31, 3, 11),
      "end": new Date(2017, 11, 31, 3, 59),
@@ -11110,7 +11110,7 @@ var datach = {
      "name": "Новый пульс",
      "mode": 0,
      "chara": [18, 313],
-     "done": false
+     "done": true
     },
     {"id": 2624,
      "start": new Date(2018, 0, 4, 19, 30),
@@ -11280,7 +11280,7 @@ var datach = {
      "name": "Не насилием единым",
      "mode": 0,
      "chara": [84],
-     "done": false
+     "done": true
     },
     {"id": 2669,
      "start": new Date(2018, 0, 7, 10, 0),
@@ -11340,6 +11340,16 @@ var datach = {
      "name": "Не будите во мне беса!",
      "mode": 0,
      "chara": [283, 282],
+     "done": true
+    },
+    {"id": 2784,
+     "start": new Date(2018, 0, 8, 1, 0),
+     "end": new Date(2018, 0, 8, 4, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Сюрпризы бюрократии",
+     "mode": 0,
+     "chara": [290, 84],
      "done": false
     },
     {"id": 2559,
@@ -11431,6 +11441,16 @@ var datach = {
      "mode": 0,
      "chara": [300],
      "done": true
+    },
+    {"id": 2778,
+     "start": new Date(2018, 0, 8, 21, 0),
+     "end": new Date(2018, 0, 8, 21, 45),
+     "tz": 2,
+     "turn": 7,
+     "name": "Диалог о вечном",
+     "mode": 0,
+     "chara": [],
+     "done": false
     },
     {"id": 2680,
      "start": new Date(2018, 0, 8, 23, 0),
