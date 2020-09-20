@@ -11140,7 +11140,7 @@ var datach = {
      "name": "Nobody expects the Spanish Inquisition",
      "mode": 0,
      "chara": [26, 321],
-     "done": false
+     "done": true
     },
     {"id": 2609,
      "start": new Date(2018, 0, 5, 0, 0),
@@ -11350,7 +11350,7 @@ var datach = {
      "name": "Сюрпризы бюрократии",
      "mode": 0,
      "chara": [290, 84],
-     "done": false
+     "done": true
     },
     {"id": 2559,
      "start": new Date(2018, 0, 8, 4, 0),
@@ -11381,6 +11381,16 @@ var datach = {
      "mode": 0,
      "chara": [300],
      "done": true
+    },
+    {"id": 2797,
+     "start": new Date(2018, 0, 8, 7, 0),
+     "end": new Date(2018, 0, 8, 8, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "38 попугаев",
+     "mode": 0,
+     "chara": [290],
+     "done": false
     },
     {"id": 2651,
      "start": new Date(2018, 0, 8, 10, 0),
@@ -11580,7 +11590,7 @@ var datach = {
      "name": "Хлебом и солью",
      "mode": 0,
      "chara": [268],
-     "done": false
+     "done": true
     },
     {"id": 2780,
      "start": new Date(2018, 0, 10, 7, 0),
@@ -11611,6 +11621,16 @@ var datach = {
      "mode": 0,
      "chara": [300, 292],
      "done": true
+    },
+    {"id": 2792,
+     "start": new Date(2018, 0, 10, 10, 0),
+     "end": new Date(2018, 0, 10, 13, 30),
+     "tz": 8,
+     "turn": 7,
+     "name": "Вечерний звон",
+     "mode": 0,
+     "chara": [268],
+     "done": false
     },
     {"id": 2615,
      "start": new Date(2018, 0, 10, 10, 0),
@@ -11900,7 +11920,7 @@ var datach = {
      "name": "Trade for nothing",
      "mode": 0,
      "chara": [86, 3, 4, 250],
-     "done": false
+     "done": true
     },
     {"id": 2735,
      "start": new Date(2018, 0, 16, 1, 25),
@@ -11940,7 +11960,7 @@ var datach = {
      "name": "Один последний взмах крыльев",
      "mode": 0,
      "chara": [305],
-     "done": false
+     "done": true
     },
     {"id": 2698,
      "start": new Date(2018, 0, 16, 12, 0),
@@ -11960,6 +11980,16 @@ var datach = {
      "name": "Paddle your own canoe",
      "mode": 0,
      "chara": [18, 315],
+     "done": false
+    },
+    {"id": 2788,
+     "start": new Date(2018, 0, 16, 21, 0),
+     "end": new Date(2018, 0, 16, 23, 0),
+     "tz": 7,
+     "turn": 7,
+     "name": "Горящие крылья: Альбион эдишн",
+     "mode": 0,
+     "chara": [305],
      "done": false
     },
     {"id": 2744,
@@ -12002,6 +12032,16 @@ var datach = {
      "chara": [314, 270],
      "done": false
     },
+    {"id": 2793,
+     "start": new Date(2018, 0, 17, 10, 0),
+     "end": new Date(2018, 0, 17, 12, 0),
+     "tz": 0,
+     "turn": 7,
+     "name": "Утро красит нежным светом",
+     "mode": 0,
+     "chara": [40, 119],
+     "done": false
+    },
     {"id": 2708,
      "start": new Date(2018, 0, 17, 11, 0),
      "end": new Date(2018, 0, 17, 18, 0),
@@ -12030,7 +12070,7 @@ var datach = {
      "name": "Бочка мёда",
      "mode": 0,
      "chara": [313],
-     "done": false
+     "done": true
     },
     {"id": 2656,
      "start": new Date(2018, 0, 17, 23, 10),
@@ -12042,16 +12082,6 @@ var datach = {
      "chara": [308],
      "done": true
     },
-    {"id": 2743,
-     "start": new Date(2018, 0, 18, 3, 30),
-     "end": new Date(2018, 0, 18, 11, 0),
-     "tz": 1,
-     "turn": 7,
-     "name": "Нет времени для танго",
-     "mode": 0,
-     "chara": [308],
-     "done": false
-    },
     {"id": 2755,
      "start": new Date(2018, 0, 18, 7, 0),
      "end": new Date(2018, 0, 19, 0, 0),
@@ -12060,16 +12090,6 @@ var datach = {
      "name": "Right Here Waiting",
      "mode": 0,
      "chara": [304],
-     "done": false
-    },
-    {"id": 2754,
-     "start": new Date(2018, 0, 18, 15, 0),
-     "end": new Date(2018, 0, 18, 18, 0),
-     "tz": 3,
-     "turn": 7,
-     "name": "Кофейный бум",
-     "mode": 0,
-     "chara": [319],
      "done": false
     },
     {"id": 2752,
@@ -12160,7 +12180,7 @@ var datach = {
      "name": "Предложение, от которого можно отказаться",
      "mode": 0,
      "chara": [292],
-     "done": false
+     "done": true
     },
     {"id": 2767,
      "start": new Date(2018, 0, 21, 13, 0),
@@ -12190,7 +12210,7 @@ var datach = {
      "name": "Герои второго плана",
      "mode": 0,
      "chara": [270],
-     "done": false
+     "done": true
     },
     {"id": 2712,
      "start": new Date(2018, 0, 22, 6, 0),
@@ -12594,6 +12614,16 @@ var datach = {
      "chara": [253],
      "done": true
     },
+    {"id": 2791,
+     "start": new Date(2014, 6, 20, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "Сомнение и доверие",
+     "mode": 0,
+     "chara": [330, 304],
+     "done": false
+    },
     {"id": 2589,
      "start": new Date(2014, 8, 12, 0, 0),
      "end": new Date(2014, 8, 15, 0, 0),
@@ -12893,6 +12923,16 @@ var datach = {
      "mode": 0,
      "chara": [96, 88],
      "done": true
+    },
+    {"id": 2796,
+     "start": new Date(2016, 6, 14, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "У меня зазвонил телефон",
+     "mode": 0,
+     "chara": [111, 290],
+     "done": false
     },
     {"id": 1159,
      "start": new Date(2016, 8, 3, 0, 0),
