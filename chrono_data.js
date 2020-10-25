@@ -7888,6 +7888,16 @@ var datach = {
      "chara": [250, 118],
      "done": true
     },
+    {"id": 2802,
+     "start": new Date(2017, 10, 22, 0, 30),
+     "end": new Date(2017, 10, 22, 2, 0),
+     "tz": 0,
+     "turn": 5,
+     "name": "All of first...",
+     "mode": 0,
+     "chara": [235],
+     "done": false
+    },
     {"id": 2353,
      "start": new Date(2017, 10, 22, 2, 0),
      "end": new Date(2017, 10, 22, 2, 50),
@@ -12062,6 +12072,16 @@ var datach = {
      "chara": [111],
      "done": false
     },
+    {"id": 2799,
+     "start": new Date(2018, 0, 17, 17, 0),
+     "end": new Date(2018, 0, 17, 19, 0),
+     "tz": 5,
+     "turn": 7,
+     "name": "Bad News",
+     "mode": 0,
+     "chara": [29, 257, 265, 278, 94, 96],
+     "done": false
+    },
     {"id": 2644,
      "start": new Date(2018, 0, 17, 18, 0),
      "end": new Date(2018, 0, 18, 7, 0),
@@ -12120,7 +12140,7 @@ var datach = {
      "name": "Наступить змее на хвост",
      "mode": 0,
      "chara": [317, 316],
-     "done": false
+     "done": true
     },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
@@ -12200,7 +12220,7 @@ var datach = {
      "name": "Попутчик",
      "mode": 0,
      "chara": [300],
-     "done": false
+     "done": true
     },
     {"id": 2785,
      "start": new Date(2018, 0, 21, 21, 10),
@@ -12210,6 +12230,16 @@ var datach = {
      "name": "Герои второго плана",
      "mode": 0,
      "chara": [270],
+     "done": true
+    },
+    {"id": 2800,
+     "start": new Date(2018, 0, 22, 4, 0),
+     "end": new Date(2018, 0, 22, 4, 50),
+     "tz": 10,
+     "turn": 7,
+     "name": "В бюро справок не дают",
+     "mode": 0,
+     "chara": [300],
      "done": true
     },
     {"id": 2712,
@@ -12262,6 +12292,16 @@ var datach = {
      "chara": [71],
      "done": false
     },
+    {"id": 2801,
+     "start": new Date(2018, 0, 24, 1, 0),
+     "end": new Date(2018, 0, 24, 2, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": " Двое в кофейне, не считая Бладкварца",
+     "mode": 0,
+     "chara": [313, 331, 328],
+     "done": false
+    },
     {"id": 2661,
      "start": new Date(2018, 0, 25, 23, 0),
      "end": new Date(2018, 0, 26, 1, 0),
@@ -12270,6 +12310,16 @@ var datach = {
      "name": "Viper's creed",
      "mode": 0,
      "chara": [193, 73],
+     "done": false
+    },
+    {"id": 2798,
+     "start": new Date(2018, 0, 26, 6, 0),
+     "end": new Date(2018, 0, 26, 8, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Ребро монеты",
+     "mode": 0,
+     "chara": [253, 90],
      "done": false
     }
   ],
