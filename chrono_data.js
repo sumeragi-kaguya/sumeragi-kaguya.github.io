@@ -8958,7 +8958,7 @@ var datach = {
      "name": "Treasoning",
      "mode": 0,
      "chara": [74, 7, 11],
-     "done": false
+     "done": true
     },
     {"id": 2006,
      "start": new Date(2017, 11, 6, 18, 0),
@@ -10448,7 +10448,7 @@ var datach = {
      "name": "Алина: Послесловие",
      "mode": 0,
      "chara": [29, 96],
-     "done": false
+     "done": true
     },
     {"id": 2562,
      "start": new Date(2017, 11, 23, 10, 0),
@@ -11022,6 +11022,16 @@ var datach = {
      "chara": [292],
      "done": true
     },
+    {"id": 2809,
+     "start": new Date(2018, 0, 2, 10, 15),
+     "end": new Date(2018, 0, 2, 15, 0),
+     "tz": 13,
+     "turn": 7,
+     "name": "Arteen, wake up!",
+     "mode": 0,
+     "chara": [111],
+     "done": false
+    },
     {"id": 2565,
      "start": new Date(2018, 0, 2, 13, 0),
      "end": new Date(2018, 0, 2, 14, 0),
@@ -11400,7 +11410,7 @@ var datach = {
      "name": "38 попугаев",
      "mode": 0,
      "chara": [290],
-     "done": false
+     "done": true
     },
     {"id": 2651,
      "start": new Date(2018, 0, 8, 10, 0),
@@ -11431,6 +11441,26 @@ var datach = {
      "mode": 0,
      "chara": [122],
      "done": false
+    },
+    {"id": 2806,
+     "start": new Date(2018, 0, 8, 13, 30),
+     "end": new Date(2018, 0, 8, 14, 30),
+     "tz": 9,
+     "turn": 7,
+     "name": "Не отчаивайтесь, киты выжили",
+     "mode": 0,
+     "chara": [290, 84],
+     "done": false
+    },
+    {"id": 2804,
+     "start": new Date(2018, 0, 8, 14, 30),
+     "end": new Date(2018, 0, 8, 14, 50),
+     "tz": 9,
+     "turn": 7,
+     "name": "Очень странные дела",
+     "mode": 0,
+     "chara": [],
+     "done": true
     },
     {"id": 2600,
      "start": new Date(2018, 0, 8, 16, 0),
@@ -11909,7 +11939,7 @@ var datach = {
      "turn": 7,
      "name": "Тьма после полуночи",
      "mode": 0,
-     "chara": [122, 49],
+     "chara": [122, 49, 151],
      "done": false
     },
     {"id": 2662,
@@ -12132,6 +12162,16 @@ var datach = {
      "chara": [313, 146],
      "done": false
     },
+    {"id": 2808,
+     "start": new Date(2018, 0, 19, 7, 0),
+     "end": new Date(2018, 0, 19, 17, 0),
+     "tz": 7,
+     "turn": 7,
+     "name": "Игрушки для взрослых",
+     "mode": 0,
+     "chara": [58],
+     "done": false
+    },
     {"id": 2734,
      "start": new Date(2018, 0, 19, 9, 0),
      "end": new Date(2018, 0, 19, 11, 0),
@@ -12141,6 +12181,16 @@ var datach = {
      "mode": 0,
      "chara": [317, 316],
      "done": true
+    },
+    {"id": 2807,
+     "start": new Date(2018, 0, 19, 11, 30),
+     "end": new Date(2018, 0, 19, 12, 30),
+     "tz": 9,
+     "turn": 7,
+     "name": "Сейчас или никогда",
+     "mode": 0,
+     "chara": [316, 84, 290],
+     "done": false
     },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
@@ -12262,6 +12312,16 @@ var datach = {
      "chara": [182],
      "done": false
     },
+    {"id": 2803,
+     "start": new Date(2018, 0, 22, 10, 40),
+     "end": new Date(2018, 0, 22, 12, 20),
+     "tz": 1,
+     "turn": 7,
+     "name": "Проблемы поколений",
+     "mode": 0,
+     "chara": [270],
+     "done": false
+    },
     {"id": 2715,
      "start": new Date(2018, 0, 22, 14, 1),
      "end": new Date(2018, 0, 23, 13, 59),
@@ -12290,7 +12350,7 @@ var datach = {
      "name": "One Way Ticket",
      "mode": 0,
      "chara": [71],
-     "done": false
+     "done": true
     },
     {"id": 2801,
      "start": new Date(2018, 0, 24, 1, 0),
@@ -12300,6 +12360,26 @@ var datach = {
      "name": " Двое в кофейне, не считая Бладкварца",
      "mode": 0,
      "chara": [313, 331, 328],
+     "done": false
+    },
+    {"id": 2811,
+     "start": new Date(2018, 0, 24, 20, 0),
+     "end": new Date(2018, 0, 25, 5, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Собрать их всех, какой ценой?",
+     "mode": 0,
+     "chara": [311, 80],
+     "done": false
+    },
+    {"id": 2812,
+     "start": new Date(2018, 0, 25, 1, 0),
+     "end": new Date(2018, 0, 25, 5, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Трофеи и победители",
+     "mode": 0,
+     "chara": [73],
      "done": false
     },
     {"id": 2661,
@@ -12312,6 +12392,16 @@ var datach = {
      "chara": [193, 73],
      "done": false
     },
+    {"id": 2810,
+     "start": new Date(2018, 0, 26, 1, 0),
+     "end": new Date(2018, 0, 26, 7, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Карты, ведьмы, три монеты",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2798,
      "start": new Date(2018, 0, 26, 6, 0),
      "end": new Date(2018, 0, 26, 8, 0),
@@ -12320,6 +12410,16 @@ var datach = {
      "name": "Ребро монеты",
      "mode": 0,
      "chara": [253, 90],
+     "done": false
+    },
+    {"id": 2805,
+     "start": new Date(2018, 0, 26, 20, 0),
+     "end": new Date(2018, 0, 27, 13, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Страсти по химчистке: Damsel in da Stress",
+     "mode": 0,
+     "chara": [],
      "done": false
     }
   ],
@@ -12732,7 +12832,7 @@ var datach = {
      "name": "Однажды в метро",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 1998,
      "start": new Date(2015, 5, 12, 0, 0),
