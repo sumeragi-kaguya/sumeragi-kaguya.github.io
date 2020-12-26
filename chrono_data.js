@@ -9700,6 +9700,16 @@ var datach = {
      "chara": [58, 258, 239],
      "done": true
     },
+    {"id": 2820,
+     "start": new Date(2017, 11, 13, 2, 0),
+     "end": new Date(2017, 11, 13, 14, 0),
+     "tz": 10,
+     "turn": 6,
+     "name": "Way of the Highlander: Sanctified with Dynamite",
+     "mode": 0,
+     "chara": [71],
+     "done": false
+    },
     {"id": 2102,
      "start": new Date(2017, 11, 13, 2, 0),
      "end": new Date(2017, 11, 13, 5, 0),
@@ -9709,6 +9719,16 @@ var datach = {
      "mode": 1,
      "chara": [29],
      "done": true
+    },
+    {"id": 2827,
+     "start": new Date(2017, 11, 13, 3, 0),
+     "end": new Date(2017, 11, 13, 6, 0),
+     "tz": 0,
+     "turn": 6,
+     "name": "Double Prime",
+     "mode": 0,
+     "chara": [11, 34],
+     "done": false
     },
     {"id": 2166,
      "start": new Date(2017, 11, 13, 3, 0),
@@ -11050,7 +11070,7 @@ var datach = {
      "name": "Забытые",
      "mode": 0,
      "chara": [314],
-     "done": false
+     "done": true
     },
     {"id": 2731,
      "start": new Date(2018, 0, 2, 19, 30),
@@ -11230,7 +11250,7 @@ var datach = {
      "name": "Мистер Пропер",
      "mode": 0,
      "chara": [289],
-     "done": false
+     "done": true
     },
     {"id": 2722,
      "start": new Date(2018, 0, 5, 23, 0),
@@ -11682,6 +11702,16 @@ var datach = {
      "chara": [268],
      "done": false
     },
+    {"id": 2833,
+     "start": new Date(2018, 0, 10, 10, 0),
+     "end": new Date(2018, 0, 10, 11, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Закулисье: часть V",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2615,
      "start": new Date(2018, 0, 10, 10, 0),
      "end": new Date(2018, 0, 10, 11, 0),
@@ -11771,6 +11801,16 @@ var datach = {
      "mode": 0,
      "chara": [257, 29, 64],
      "done": true
+    },
+    {"id": 2834,
+     "start": new Date(2018, 0, 11, 17, 20),
+     "end": new Date(2018, 0, 11, 18, 40),
+     "tz": 1,
+     "turn": 7,
+     "name": "Туши свет, бросай гранату",
+     "mode": 0,
+     "chara": [332],
+     "done": false
     },
     {"id": 2652,
      "start": new Date(2018, 0, 11, 21, 0),
@@ -12082,6 +12122,16 @@ var datach = {
      "chara": [90, 253, 180, 300, 317, 316, 304, 129],
      "done": true
     },
+    {"id": 2832,
+     "start": new Date(2018, 0, 17, 4, 0),
+     "end": new Date(2018, 0, 17, 6, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Я знаю, о чём ты думаешь",
+     "mode": 0,
+     "chara": [4, 250],
+     "done": false
+    },
     {"id": 2748,
      "start": new Date(2018, 0, 17, 7, 0),
      "end": new Date(2018, 0, 17, 10, 0),
@@ -12100,7 +12150,7 @@ var datach = {
      "name": "Неволя",
      "mode": 0,
      "chara": [314, 270],
-     "done": false
+     "done": true
     },
     {"id": 2793,
      "start": new Date(2018, 0, 17, 10, 0),
@@ -12110,7 +12160,7 @@ var datach = {
      "name": "Утро красит нежным светом",
      "mode": 0,
      "chara": [40, 119],
-     "done": false
+     "done": true
     },
     {"id": 2708,
      "start": new Date(2018, 0, 17, 11, 0),
@@ -12180,6 +12230,16 @@ var datach = {
      "name": "Свидетель №1",
      "mode": 0,
      "chara": [],
+     "done": false
+    },
+    {"id": 2826,
+     "start": new Date(2018, 0, 19, 2, 0),
+     "end": new Date(2018, 0, 19, 4, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Шницель, кровь и вино",
+     "mode": 0,
+     "chara": [34, 40],
      "done": false
     },
     {"id": 2769,
@@ -12261,6 +12321,16 @@ var datach = {
      "mode": 0,
      "chara": [300, 182],
      "done": true
+    },
+    {"id": 2823,
+     "start": new Date(2018, 0, 20, 13, 30),
+     "end": new Date(2018, 0, 20, 14, 40),
+     "tz": 1,
+     "turn": 7,
+     "name": " Открой свой разум",
+     "mode": 0,
+     "chara": [314],
+     "done": false
     },
     {"id": 2686,
      "start": new Date(2018, 0, 20, 14, 30),
@@ -12360,7 +12430,7 @@ var datach = {
      "name": "Das Schwarze Geheimnis des Wei&#223;en Geistes",
      "mode": 0,
      "chara": [73, 311],
-     "done": false
+     "done": true
     },
     {"id": 2772,
      "start": new Date(2018, 0, 22, 20, 0),
@@ -12380,6 +12450,16 @@ var datach = {
      "name": "One Way Ticket",
      "mode": 0,
      "chara": [71],
+     "done": true
+    },
+    {"id": 2821,
+     "start": new Date(2018, 0, 23, 14, 0),
+     "end": new Date(2018, 0, 23, 15, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Судьба Петрова",
+     "mode": 0,
+     "chara": [300],
      "done": true
     },
     {"id": 2801,
@@ -12450,7 +12530,7 @@ var datach = {
      "name": "Страсти по химчистке: Damsel in da Stress",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2819,
      "start": new Date(2018, 0, 27, 12, 30),
@@ -12460,6 +12540,16 @@ var datach = {
      "name": "Страсти по химчистке: PTZD",
      "mode": 0,
      "chara": [],
+     "done": false
+    },
+    {"id": 2825,
+     "start": new Date(2018, 0, 27, 21, 0),
+     "end": new Date(2018, 0, 27, 23, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Джедаи и те, кому приходится с ними возиться",
+     "mode": 0,
+     "chara": [313],
      "done": false
     }
   ],
@@ -12513,6 +12603,16 @@ var datach = {
      "mode": 0,
      "chara": [90, 88, 29],
      "done": true
+    },
+    {"id": 2836,
+     "start": new Date(2005, 4, 1, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "Доверие, соперничество, \"Ремингтон\"",
+     "mode": 0,
+     "chara": [150, 190],
+     "done": false
     },
     {"id": 1946,
      "start": new Date(2005, 9, 20, 0, 0),
@@ -12693,26 +12793,6 @@ var datach = {
      "mode": 0,
      "chara": [268],
      "done": true
-    },
-    {"id": 2613,
-     "start": new Date(2011, 7, 6, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Primo Victoria",
-     "mode": 0,
-     "chara": [11, 310, 40],
-     "done": false
-    },
-    {"id": 2554,
-     "start": new Date(2011, 9, 14, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Добро пожаловать на Окинаву!",
-     "mode": 0,
-     "chara": [289],
-     "done": false
     },
     {"id": 2518,
      "start": new Date(2012, 3, 12, 0, 0),
@@ -12913,6 +12993,16 @@ var datach = {
      "mode": 0,
      "chara": [212],
      "done": true
+    },
+    {"id": 2830,
+     "start": new Date(2015, 6, 22, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "you make me crazy",
+     "mode": 0,
+     "chara": [],
+     "done": false
     },
     {"id": 1701,
      "start": new Date(2015, 7, 1, 0, 0),
