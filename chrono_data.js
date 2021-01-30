@@ -7266,7 +7266,7 @@ var datach = {
      "name": "Воронье гнездо",
      "mode": 0,
      "chara": [128],
-     "done": false
+     "done": true
     },
     {"id": 1649,
      "start": new Date(2017, 10, 10, 12, 0),
@@ -10198,7 +10198,7 @@ var datach = {
      "name": "Unbrick",
      "mode": 0,
      "chara": [272],
-     "done": false
+     "done": true
     },
     {"id": 2278,
      "start": new Date(2017, 11, 19, 21, 0),
@@ -11480,7 +11480,7 @@ var datach = {
      "name": "Не отчаивайтесь, киты выжили",
      "mode": 0,
      "chara": [290, 84],
-     "done": false
+     "done": true
     },
     {"id": 2804,
      "start": new Date(2018, 0, 8, 14, 30),
@@ -11710,7 +11710,7 @@ var datach = {
      "name": "Закулисье: часть V",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2615,
      "start": new Date(2018, 0, 10, 10, 0),
@@ -11901,6 +11901,16 @@ var datach = {
      "mode": 0,
      "chara": [313],
      "done": true
+    },
+    {"id": 2828,
+     "start": new Date(2018, 0, 14, 18, 0),
+     "end": new Date(2018, 0, 14, 21, 0),
+     "tz": 4,
+     "turn": 7,
+     "name": "Опиум для никого",
+     "mode": 0,
+     "chara": [74, 64],
+     "done": false
     },
     {"id": 2626,
      "start": new Date(2018, 0, 14, 19, 15),
@@ -12130,7 +12140,7 @@ var datach = {
      "name": "Я знаю, о чём ты думаешь",
      "mode": 0,
      "chara": [4, 250],
-     "done": false
+     "done": true
     },
     {"id": 2748,
      "start": new Date(2018, 0, 17, 7, 0),
@@ -12230,7 +12240,7 @@ var datach = {
      "name": "Свидетель №1",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2826,
      "start": new Date(2018, 0, 19, 2, 0),
@@ -12280,7 +12290,7 @@ var datach = {
      "name": "Сейчас или никогда",
      "mode": 0,
      "chara": [316, 84, 290],
-     "done": false
+     "done": true
     },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
@@ -12470,7 +12480,7 @@ var datach = {
      "name": " Двое в кофейне, не считая Бладкварца",
      "mode": 0,
      "chara": [313, 331, 328],
-     "done": false
+     "done": true
     },
     {"id": 2811,
      "start": new Date(2018, 0, 24, 20, 0),
@@ -12490,6 +12500,26 @@ var datach = {
      "name": "Трофеи и победители",
      "mode": 0,
      "chara": [73],
+     "done": false
+    },
+    {"id": 2842,
+     "start": new Date(2018, 0, 25, 1, 30),
+     "end": new Date(2018, 0, 25, 2, 30),
+     "tz": 16,
+     "turn": 7,
+     "name": "Озадаченность",
+     "mode": 0,
+     "chara": [118, 313],
+     "done": false
+    },
+    {"id": 2840,
+     "start": new Date(2018, 0, 25, 2, 0),
+     "end": new Date(2018, 0, 25, 6, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Теплые встречи",
+     "mode": 0,
+     "chara": [328],
      "done": false
     },
     {"id": 2661,
@@ -12520,7 +12550,7 @@ var datach = {
      "name": "Ребро монеты",
      "mode": 0,
      "chara": [253, 90],
-     "done": false
+     "done": true
     },
     {"id": 2805,
      "start": new Date(2018, 0, 26, 19, 0),
@@ -13333,6 +13363,16 @@ var datach = {
      "mode": 0,
      "chara": [141, 84],
      "done": true
+    },
+    {"id": 2837,
+     "start": new Date(2017, 3, 6, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "06.04.17 Algerian Syndrome: The Girl Who Smells Like Sunflowers",
+     "mode": 0,
+     "chara": [313],
+     "done": false
     },
     {"id": 1136,
      "start": new Date(2017, 3, 16, 0, 0),
