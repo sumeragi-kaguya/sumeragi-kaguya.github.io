@@ -11260,7 +11260,7 @@ var datach = {
      "name": "Груз 100",
      "mode": 0,
      "chara": [177, 326],
-     "done": false
+     "done": true
     },
     {"id": 2641,
      "start": new Date(2018, 0, 5, 23, 0),
@@ -12062,6 +12062,16 @@ var datach = {
      "chara": [1],
      "done": false
     },
+    {"id": 2845,
+     "start": new Date(2018, 0, 16, 8, 0),
+     "end": new Date(2018, 0, 16, 8, 37),
+     "tz": 2,
+     "turn": 7,
+     "name": "Mission: Possible",
+     "mode": 0,
+     "chara": [333, 272],
+     "done": false
+    },
     {"id": 2779,
      "start": new Date(2018, 0, 16, 11, 0),
      "end": new Date(2018, 0, 16, 16, 0),
@@ -12200,7 +12210,7 @@ var datach = {
      "name": "Bad News",
      "mode": 0,
      "chara": [29, 257, 265, 278, 94, 96],
-     "done": false
+     "done": true
     },
     {"id": 2644,
      "start": new Date(2018, 0, 17, 18, 0),
@@ -12292,6 +12302,26 @@ var datach = {
      "chara": [316, 84, 290],
      "done": true
     },
+    {"id": 2843,
+     "start": new Date(2018, 0, 19, 13, 0),
+     "end": new Date(2018, 0, 19, 17, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Очень злые водопроводчики",
+     "mode": 0,
+     "chara": [84, 290, 316, 317],
+     "done": false
+    },
+    {"id": 2844,
+     "start": new Date(2018, 0, 19, 13, 0),
+     "end": new Date(2018, 0, 19, 17, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Соляные столпы",
+     "mode": 0,
+     "chara": [326, 177, 283, 282, 289],
+     "done": false
+    },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
      "end": new Date(2018, 0, 20, 21, 0),
@@ -12340,6 +12370,16 @@ var datach = {
      "name": " Открой свой разум",
      "mode": 0,
      "chara": [314],
+     "done": false
+    },
+    {"id": 2847,
+     "start": new Date(2018, 0, 20, 14, 0),
+     "end": new Date(2018, 0, 20, 16, 0),
+     "tz": 0,
+     "turn": 7,
+     "name": "Аравийские ветра меняют направление",
+     "mode": 0,
+     "chara": [40, 235],
      "done": false
     },
     {"id": 2686,
@@ -12522,6 +12562,16 @@ var datach = {
      "chara": [328],
      "done": false
     },
+    {"id": 2850,
+     "start": new Date(2018, 0, 25, 6, 30),
+     "end": new Date(2018, 0, 25, 7, 30),
+     "tz": 16,
+     "turn": 7,
+     "name": "Body back",
+     "mode": 0,
+     "chara": [328],
+     "done": false
+    },
     {"id": 2661,
      "start": new Date(2018, 0, 25, 23, 0),
      "end": new Date(2018, 0, 26, 1, 0),
@@ -12580,6 +12630,16 @@ var datach = {
      "name": "Джедаи и те, кому приходится с ними возиться",
      "mode": 0,
      "chara": [313],
+     "done": false
+    },
+    {"id": 2849,
+     "start": new Date(2018, 0, 31, 5, 0),
+     "end": new Date(2018, 0, 31, 6, 30),
+     "tz": 10,
+     "turn": 7,
+     "name": "Игры разума",
+     "mode": 0,
+     "chara": [111],
      "done": false
     }
   ],
@@ -12702,6 +12762,16 @@ var datach = {
      "name": "A Sorrow-Seasoned Miracle",
      "mode": 0,
      "chara": [74, 273],
+     "done": true
+    },
+    {"id": 2848,
+     "start": new Date(2009, 3, 30, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "Behind the Emperor",
+     "mode": 0,
+     "chara": [],
      "done": true
     },
     {"id": 2206,
@@ -13369,7 +13439,7 @@ var datach = {
      "end": null,
      "tz": 0,
      "turn": 0,
-     "name": "06.04.17 Algerian Syndrome: The Girl Who Smells Like Sunflowers",
+     "name": "Algerian Syndrome: The Girl Who Smells Like Sunflowers",
      "mode": 0,
      "chara": [313],
      "done": false
