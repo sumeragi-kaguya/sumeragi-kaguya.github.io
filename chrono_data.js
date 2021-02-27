@@ -11532,6 +11532,16 @@ var datach = {
      "chara": [],
      "done": false
     },
+    {"id": 2854,
+     "start": new Date(2018, 0, 8, 22, 0),
+     "end": new Date(2018, 0, 9, 0, 0),
+     "tz": 13,
+     "turn": 7,
+     "name": "Я мог бы расколоть земной шар... Но начнём с найтмера",
+     "mode": 0,
+     "chara": [26, 277],
+     "done": false
+    },
     {"id": 2680,
      "start": new Date(2018, 0, 8, 23, 0),
      "end": new Date(2018, 0, 9, 0, 0),
@@ -12090,7 +12100,7 @@ var datach = {
      "name": "Сидели три товарища...",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2698,
      "start": new Date(2018, 0, 16, 12, 0),
@@ -12601,6 +12611,16 @@ var datach = {
      "mode": 0,
      "chara": [253, 90],
      "done": true
+    },
+    {"id": 2851,
+     "start": new Date(2018, 0, 26, 18, 0),
+     "end": new Date(2018, 0, 26, 21, 0),
+     "tz": 2,
+     "turn": 7,
+     "name": "I Did Something Bad",
+     "mode": 0,
+     "chara": [40, 119],
+     "done": false
     },
     {"id": 2805,
      "start": new Date(2018, 0, 26, 19, 0),
