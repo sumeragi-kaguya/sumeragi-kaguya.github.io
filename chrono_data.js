@@ -11552,6 +11552,16 @@ var datach = {
      "chara": [151, 1],
      "done": true
     },
+    {"id": 2856,
+     "start": new Date(2018, 0, 9, 2, 0),
+     "end": new Date(2018, 0, 9, 7, 0),
+     "tz": 8,
+     "turn": 7,
+     "name": "То, что вы ищете – тоже ищет вас.",
+     "mode": 0,
+     "chara": [334],
+     "done": false
+    },
     {"id": 2606,
      "start": new Date(2018, 0, 9, 11, 40),
      "end": new Date(2018, 0, 14, 19, 0),
@@ -11710,7 +11720,7 @@ var datach = {
      "name": "Вечерний звон",
      "mode": 0,
      "chara": [268],
-     "done": false
+     "done": true
     },
     {"id": 2833,
      "start": new Date(2018, 0, 10, 10, 0),
@@ -12402,6 +12412,16 @@ var datach = {
      "chara": [292],
      "done": true
     },
+    {"id": 2857,
+     "start": new Date(2018, 0, 20, 22, 0),
+     "end": new Date(2018, 0, 21, 0, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "О мышках, которые попытались съесть кошку",
+     "mode": 0,
+     "chara": [313],
+     "done": false
+    },
     {"id": 2782,
      "start": new Date(2018, 0, 21, 7, 0),
      "end": new Date(2018, 0, 21, 12, 0),
@@ -12560,7 +12580,7 @@ var datach = {
      "name": "Озадаченность",
      "mode": 0,
      "chara": [118, 313],
-     "done": false
+     "done": true
     },
     {"id": 2840,
      "start": new Date(2018, 0, 25, 2, 0),
@@ -12659,7 +12679,7 @@ var datach = {
      "turn": 7,
      "name": "Игры разума",
      "mode": 0,
-     "chara": [111],
+     "chara": [111, 90],
      "done": false
     }
   ],
