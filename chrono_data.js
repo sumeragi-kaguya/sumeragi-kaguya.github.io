@@ -11770,7 +11770,7 @@ var datach = {
      "name": "Грудью на амбразуру",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2639,
      "start": new Date(2018, 0, 11, 0, 0),
