@@ -10578,7 +10578,7 @@ var datach = {
      "name": "Our Homeland",
      "mode": 0,
      "chara": [7, 71],
-     "done": false
+     "done": true
     },
     {"id": 1956,
      "start": new Date(2017, 11, 24, 11, 17),
@@ -12012,16 +12012,6 @@ var datach = {
      "chara": [74, 273, 7],
      "done": false
     },
-    {"id": 2721,
-     "start": new Date(2018, 0, 15, 10, 0),
-     "end": new Date(2018, 0, 15, 14, 0),
-     "tz": 8,
-     "turn": 7,
-     "name": "Слон в малиннике",
-     "mode": 0,
-     "chara": [315],
-     "done": false
-    },
     {"id": 2773,
      "start": new Date(2018, 0, 15, 10, 0),
      "end": new Date(2018, 0, 15, 12, 0),
@@ -12121,16 +12111,6 @@ var datach = {
      "mode": 0,
      "chara": [88, 270],
      "done": true
-    },
-    {"id": 2719,
-     "start": new Date(2018, 0, 16, 18, 0),
-     "end": new Date(2018, 0, 16, 20, 0),
-     "tz": 16,
-     "turn": 7,
-     "name": "Paddle your own canoe",
-     "mode": 0,
-     "chara": [18, 315],
-     "done": false
     },
     {"id": 2788,
      "start": new Date(2018, 0, 16, 21, 0),
