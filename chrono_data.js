@@ -11792,6 +11792,16 @@ var datach = {
      "chara": [313, 146],
      "done": true
     },
+    {"id": 2863,
+     "start": new Date(2018, 0, 11, 7, 0),
+     "end": new Date(2018, 0, 11, 9, 0),
+     "tz": 8,
+     "turn": 7,
+     "name": "Серебряный век дипломатии",
+     "mode": 0,
+     "chara": [268],
+     "done": false
+    },
     {"id": 2665,
      "start": new Date(2018, 0, 11, 8, 0),
      "end": new Date(2018, 0, 11, 9, 0),
@@ -12380,7 +12390,7 @@ var datach = {
      "name": "Аравийские ветра меняют направление",
      "mode": 0,
      "chara": [40, 235],
-     "done": false
+     "done": true
     },
     {"id": 2686,
      "start": new Date(2018, 0, 20, 14, 30),
@@ -12492,6 +12502,16 @@ var datach = {
      "chara": [73, 311],
      "done": true
     },
+    {"id": 2862,
+     "start": new Date(2018, 0, 22, 19, 0),
+     "end": new Date(2018, 0, 22, 20, 0),
+     "tz": 2,
+     "turn": 7,
+     "name": "Далекоидущие планы",
+     "mode": 0,
+     "chara": [278, 265, 29],
+     "done": false
+    },
     {"id": 2772,
      "start": new Date(2018, 0, 22, 20, 0),
      "end": new Date(2018, 0, 22, 22, 0),
@@ -12500,6 +12520,16 @@ var datach = {
      "name": "Проходной двор",
      "mode": 0,
      "chara": [18, 98, 328],
+     "done": false
+    },
+    {"id": 2864,
+     "start": new Date(2018, 0, 23, 5, 0),
+     "end": new Date(2018, 0, 23, 7, 0),
+     "tz": 2,
+     "turn": 7,
+     "name": "Запах металла по утру",
+     "mode": 0,
+     "chara": [88, 270],
      "done": false
     },
     {"id": 2787,
@@ -12580,6 +12610,16 @@ var datach = {
      "name": "Body back",
      "mode": 0,
      "chara": [328],
+     "done": false
+    },
+    {"id": 2860,
+     "start": new Date(2018, 0, 25, 12, 0),
+     "end": new Date(2018, 0, 25, 21, 0),
+     "tz": 3,
+     "turn": 7,
+     "name": "И снится нам трава у дома",
+     "mode": 0,
+     "chara": [257, 29, 94],
      "done": false
     },
     {"id": 2661,
@@ -12813,6 +12853,16 @@ var datach = {
      "mode": 0,
      "chara": [11, 18],
      "done": true
+    },
+    {"id": 2861,
+     "start": new Date(2009, 5, 11, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "Покуда не стёрся наш след",
+     "mode": 0,
+     "chara": [119, 64],
+     "done": false
     },
     {"id": 853,
      "start": new Date(2009, 6, 22, 0, 0),
