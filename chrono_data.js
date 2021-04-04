@@ -9977,7 +9977,7 @@ var datach = {
      "turn": 6,
      "name": "Подслушано в Санкт-Петербурге",
      "mode": 0,
-     "chara": [253],
+     "chara": [253, 182, 214],
      "done": false
     },
     {"id": 2423,
@@ -12292,16 +12292,6 @@ var datach = {
      "chara": [311],
      "done": true
     },
-    {"id": 2765,
-     "start": new Date(2018, 0, 20, 3, 0),
-     "end": new Date(2018, 0, 20, 5, 0),
-     "tz": 10,
-     "turn": 7,
-     "name": "Сезон Дождей",
-     "mode": 0,
-     "chara": [128, 329],
-     "done": false
-    },
     {"id": 2737,
      "start": new Date(2018, 0, 20, 5, 0),
      "end": new Date(2018, 0, 20, 10, 0),
@@ -12370,7 +12360,7 @@ var datach = {
      "name": "Элитные раздолбаи",
      "mode": 0,
      "chara": [328],
-     "done": false
+     "done": true
     },
     {"id": 2771,
      "start": new Date(2018, 0, 21, 15, 0),
