@@ -10060,16 +10060,6 @@ var datach = {
      "chara": [47, 11, 162, 48],
      "done": true
     },
-    {"id": 2265,
-     "start": new Date(2017, 11, 18, 11, 0),
-     "end": new Date(2017, 11, 18, 13, 0),
-     "tz": 2,
-     "turn": 6,
-     "name": "Hellfire",
-     "mode": 0,
-     "chara": [272],
-     "done": false
-    },
     {"id": 2280,
      "start": new Date(2017, 11, 18, 12, 0),
      "end": new Date(2017, 11, 18, 16, 0),
@@ -11630,7 +11620,7 @@ var datach = {
      "name": "Connection",
      "mode": 0,
      "chara": [309, 322],
-     "done": false
+     "done": true
     },
     {"id": 2649,
      "start": new Date(2018, 0, 10, 7, 0),
@@ -11711,6 +11701,16 @@ var datach = {
      "mode": 0,
      "chara": [],
      "done": true
+    },
+    {"id": 2869,
+     "start": new Date(2018, 0, 10, 16, 0),
+     "end": new Date(2018, 0, 10, 21, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Большая чистка",
+     "mode": 0,
+     "chara": [309, 322],
+     "done": false
     },
     {"id": 2639,
      "start": new Date(2018, 0, 11, 0, 0),
@@ -12452,6 +12452,16 @@ var datach = {
      "chara": [278, 265, 29],
      "done": false
     },
+    {"id": 2870,
+     "start": new Date(2018, 0, 22, 20, 0),
+     "end": new Date(2018, 0, 22, 22, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Иногда сигара - это просто сигара",
+     "mode": 0,
+     "chara": [4, 250],
+     "done": false
+    },
     {"id": 2772,
      "start": new Date(2018, 0, 22, 20, 0),
      "end": new Date(2018, 0, 22, 22, 0),
@@ -12502,6 +12512,16 @@ var datach = {
      "chara": [313, 328],
      "done": true
     },
+    {"id": 2872,
+     "start": new Date(2018, 0, 24, 15, 1),
+     "end": new Date(2018, 0, 24, 21, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Dragon's Flight",
+     "mode": 0,
+     "chara": [74],
+     "done": false
+    },
     {"id": 2811,
      "start": new Date(2018, 0, 24, 20, 0),
      "end": new Date(2018, 0, 25, 5, 0),
@@ -12510,6 +12530,16 @@ var datach = {
      "name": "Собрать их всех, какой ценой?",
      "mode": 0,
      "chara": [311, 80],
+     "done": false
+    },
+    {"id": 2871,
+     "start": new Date(2018, 0, 25, 1, 0),
+     "end": new Date(2018, 0, 25, 3, 30),
+     "tz": 9,
+     "turn": 7,
+     "name": "Добро пожаловать в Ад",
+     "mode": 0,
+     "chara": [331],
      "done": false
     },
     {"id": 2812,
@@ -12580,7 +12610,7 @@ var datach = {
      "name": "Карты, ведьмы, три монеты",
      "mode": 0,
      "chara": [313],
-     "done": false
+     "done": true
     },
     {"id": 2798,
      "start": new Date(2018, 0, 26, 6, 0),
@@ -12620,7 +12650,7 @@ var datach = {
      "name": "Страсти по химчистке: PTZD",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2825,
      "start": new Date(2018, 0, 27, 21, 0),
@@ -12630,6 +12660,16 @@ var datach = {
      "name": "Джедаи и те, кому приходится с ними возиться",
      "mode": 0,
      "chara": [313],
+     "done": false
+    },
+    {"id": 2868,
+     "start": new Date(2018, 0, 27, 23, 0),
+     "end": new Date(2018, 0, 28, 1, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Страсти по Химчистке: Mr. Teatime",
+     "mode": 0,
+     "chara": [],
      "done": false
     },
     {"id": 2849,
