@@ -9648,7 +9648,7 @@ var datach = {
      "name": "Way of the Highlander: Sanctified with Dynamite",
      "mode": 0,
      "chara": [71],
-     "done": false
+     "done": true
     },
     {"id": 2102,
      "start": new Date(2017, 11, 13, 2, 0),
@@ -11510,7 +11510,7 @@ var datach = {
      "name": "Mars and Venus",
      "mode": 0,
      "chara": [36],
-     "done": false
+     "done": true
     },
     {"id": 2650,
      "start": new Date(2018, 0, 9, 19, 0),
@@ -11710,6 +11710,16 @@ var datach = {
      "name": "Большая чистка",
      "mode": 0,
      "chara": [309, 322],
+     "done": false
+    },
+    {"id": 2875,
+     "start": new Date(2018, 0, 10, 16, 30),
+     "end": new Date(2018, 0, 10, 18, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Что происходит в Вегасе, остается в Вегасе",
+     "mode": 0,
+     "chara": [290, 84],
      "done": false
     },
     {"id": 2639,
@@ -12372,6 +12382,16 @@ var datach = {
      "chara": [300],
      "done": true
     },
+    {"id": 2876,
+     "start": new Date(2018, 0, 21, 17, 0),
+     "end": new Date(2018, 0, 21, 19, 0),
+     "tz": 2,
+     "turn": 7,
+     "name": "Together or not",
+     "mode": 0,
+     "chara": [308],
+     "done": false
+    },
     {"id": 2785,
      "start": new Date(2018, 0, 21, 21, 10),
      "end": new Date(2018, 0, 21, 22, 30),
@@ -12522,6 +12542,16 @@ var datach = {
      "chara": [74],
      "done": false
     },
+    {"id": 2878,
+     "start": new Date(2018, 0, 24, 15, 1),
+     "end": new Date(2018, 0, 24, 18, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "White Death",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2811,
      "start": new Date(2018, 0, 24, 20, 0),
      "end": new Date(2018, 0, 25, 5, 0),
@@ -12642,6 +12672,16 @@ var datach = {
      "chara": [],
      "done": true
     },
+    {"id": 2874,
+     "start": new Date(2018, 0, 27, 4, 45),
+     "end": new Date(2018, 0, 27, 8, 0),
+     "tz": 2,
+     "turn": 7,
+     "name": "Moth into flame",
+     "mode": 0,
+     "chara": [40, 119],
+     "done": false
+    },
     {"id": 2819,
      "start": new Date(2018, 0, 27, 12, 30),
      "end": new Date(2018, 0, 27, 13, 59),
@@ -12668,6 +12708,16 @@ var datach = {
      "tz": 10,
      "turn": 7,
      "name": "Страсти по Химчистке: Mr. Teatime",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
+    {"id": 2877,
+     "start": new Date(2018, 0, 28, 10, 0),
+     "end": new Date(2018, 0, 29, 1, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Страсти по Химчистке. Спин-офф: Girl's Night Out",
      "mode": 0,
      "chara": [],
      "done": false
@@ -13304,6 +13354,16 @@ var datach = {
      "chara": [313],
      "done": false
     },
+    {"id": 2837,
+     "start": new Date(2016, 3, 6, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "Algerian Syndrome: The Girl Who Smells Like Sunflowers",
+     "mode": 0,
+     "chara": [313],
+     "done": false
+    },
     {"id": 2756,
      "start": new Date(2016, 3, 7, 0, 0),
      "end": null,
@@ -13483,16 +13543,6 @@ var datach = {
      "mode": 0,
      "chara": [141, 84],
      "done": true
-    },
-    {"id": 2837,
-     "start": new Date(2017, 3, 6, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Algerian Syndrome: The Girl Who Smells Like Sunflowers",
-     "mode": 0,
-     "chara": [313],
-     "done": false
     },
     {"id": 455,
      "start": new Date(2017, 3, 22, 0, 0),
