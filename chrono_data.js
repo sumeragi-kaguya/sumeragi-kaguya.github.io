@@ -9850,6 +9850,16 @@ var datach = {
      "chara": [182, 188],
      "done": false
     },
+    {"id": 2885,
+     "start": new Date(2017, 11, 15, 2, 0),
+     "end": new Date(2017, 11, 15, 13, 0),
+     "tz": 10,
+     "turn": 6,
+     "name": "Way of the Highlander: Wolves of Antananarivo",
+     "mode": 0,
+     "chara": [71],
+     "done": false
+    },
     {"id": 2128,
      "start": new Date(2017, 11, 15, 2, 0),
      "end": new Date(2017, 11, 15, 5, 0),
@@ -11220,7 +11230,7 @@ var datach = {
      "name": "Голоса",
      "mode": 0,
      "chara": [26, 320],
-     "done": false
+     "done": true
     },
     {"id": 2647,
      "start": new Date(2018, 0, 6, 15, 35),
@@ -11720,7 +11730,7 @@ var datach = {
      "name": "Что происходит в Вегасе, остается в Вегасе",
      "mode": 0,
      "chara": [290, 84],
-     "done": false
+     "done": true
     },
     {"id": 2639,
      "start": new Date(2018, 0, 11, 0, 0),
@@ -11992,6 +12002,16 @@ var datach = {
      "chara": [74, 273, 73, 193],
      "done": false
     },
+    {"id": 2884,
+     "start": new Date(2018, 0, 15, 11, 0),
+     "end": new Date(2018, 0, 19, 7, 0),
+     "tz": 15,
+     "turn": 7,
+     "name": "Korean western with Russian dressing",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2699,
      "start": new Date(2018, 0, 16, 0, 0),
      "end": new Date(2018, 0, 16, 2, 0),
@@ -12220,7 +12240,7 @@ var datach = {
      "name": "Шницель, кровь и вино",
      "mode": 0,
      "chara": [34, 40],
-     "done": false
+     "done": true
     },
     {"id": 2769,
      "start": new Date(2018, 0, 19, 4, 0),
@@ -12230,6 +12250,16 @@ var datach = {
      "name": "(А)моральные вопросы",
      "mode": 0,
      "chara": [313, 146],
+     "done": false
+    },
+    {"id": 2883,
+     "start": new Date(2018, 0, 19, 7, 0),
+     "end": new Date(2018, 0, 19, 10, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Два свидания под взглядом Будды",
+     "mode": 0,
+     "chara": [34, 40],
      "done": false
     },
     {"id": 2808,
@@ -12480,7 +12510,7 @@ var datach = {
      "name": "Иногда сигара - это просто сигара",
      "mode": 0,
      "chara": [4, 250],
-     "done": false
+     "done": true
     },
     {"id": 2772,
      "start": new Date(2018, 0, 22, 20, 0),
@@ -12602,6 +12632,16 @@ var datach = {
      "chara": [328],
      "done": false
     },
+    {"id": 2880,
+     "start": new Date(2018, 0, 25, 4, 0),
+     "end": new Date(2018, 0, 25, 6, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Orange wave",
+     "mode": 0,
+     "chara": [118],
+     "done": false
+    },
     {"id": 2850,
      "start": new Date(2018, 0, 25, 6, 30),
      "end": new Date(2018, 0, 25, 7, 30),
@@ -12610,7 +12650,7 @@ var datach = {
      "name": "Body back",
      "mode": 0,
      "chara": [328],
-     "done": false
+     "done": true
     },
     {"id": 2860,
      "start": new Date(2018, 0, 25, 12, 0),
@@ -12672,6 +12712,16 @@ var datach = {
      "chara": [],
      "done": true
     },
+    {"id": 2886,
+     "start": new Date(2018, 0, 27, 2, 0),
+     "end": new Date(2018, 0, 27, 4, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Легион Его Императорского Величества",
+     "mode": 0,
+     "chara": [90, 180],
+     "done": false
+    },
     {"id": 2874,
      "start": new Date(2018, 0, 27, 4, 45),
      "end": new Date(2018, 0, 27, 8, 0),
@@ -12691,6 +12741,16 @@ var datach = {
      "mode": 0,
      "chara": [],
      "done": true
+    },
+    {"id": 2882,
+     "start": new Date(2018, 0, 27, 17, 0),
+     "end": new Date(2018, 0, 27, 19, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Из Гонконга с любовью",
+     "mode": 0,
+     "chara": [313],
+     "done": false
     },
     {"id": 2825,
      "start": new Date(2018, 0, 27, 21, 0),
