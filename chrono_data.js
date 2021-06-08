@@ -11812,6 +11812,16 @@ var datach = {
      "chara": [292, 129, 200, 201],
      "done": true
     },
+    {"id": 2889,
+     "start": new Date(2018, 0, 12, 2, 0),
+     "end": new Date(2018, 0, 12, 4, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "На игре",
+     "mode": 0,
+     "chara": [250],
+     "done": false
+    },
     {"id": 2705,
      "start": new Date(2018, 0, 12, 5, 0),
      "end": new Date(2018, 0, 12, 16, 0),
@@ -12500,7 +12510,7 @@ var datach = {
      "name": "Далекоидущие планы",
      "mode": 0,
      "chara": [278, 265, 29],
-     "done": false
+     "done": true
     },
     {"id": 2870,
      "start": new Date(2018, 0, 22, 20, 0),
@@ -12552,6 +12562,16 @@ var datach = {
      "chara": [300],
      "done": true
     },
+    {"id": 2825,
+     "start": new Date(2018, 0, 23, 21, 0),
+     "end": new Date(2018, 0, 23, 23, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Джедаи и те, кому приходится с ними возиться",
+     "mode": 0,
+     "chara": [313],
+     "done": false
+    },
     {"id": 2801,
      "start": new Date(2018, 0, 24, 1, 0),
      "end": new Date(2018, 0, 24, 2, 0),
@@ -12570,7 +12590,7 @@ var datach = {
      "name": "Dragon's Flight",
      "mode": 0,
      "chara": [74],
-     "done": false
+     "done": true
     },
     {"id": 2878,
      "start": new Date(2018, 0, 24, 15, 1),
@@ -12682,6 +12702,16 @@ var datach = {
      "chara": [313],
      "done": true
     },
+    {"id": 2887,
+     "start": new Date(2018, 0, 26, 3, 0),
+     "end": new Date(2018, 0, 26, 5, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Это. Наш. Дом.",
+     "mode": 0,
+     "chara": [71, 7],
+     "done": false
+    },
     {"id": 2798,
      "start": new Date(2018, 0, 26, 6, 0),
      "end": new Date(2018, 0, 26, 8, 0),
@@ -12722,6 +12752,16 @@ var datach = {
      "chara": [90, 180],
      "done": false
     },
+    {"id": 2888,
+     "start": new Date(2018, 0, 27, 3, 0),
+     "end": new Date(2018, 0, 27, 4, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Мой лучший друг",
+     "mode": 0,
+     "chara": [313, 328],
+     "done": true
+    },
     {"id": 2874,
      "start": new Date(2018, 0, 27, 4, 45),
      "end": new Date(2018, 0, 27, 8, 0),
@@ -12748,16 +12788,6 @@ var datach = {
      "tz": 16,
      "turn": 7,
      "name": "Из Гонконга с любовью",
-     "mode": 0,
-     "chara": [313],
-     "done": false
-    },
-    {"id": 2825,
-     "start": new Date(2018, 0, 27, 21, 0),
-     "end": new Date(2018, 0, 27, 23, 0),
-     "tz": 16,
-     "turn": 7,
-     "name": "Джедаи и те, кому приходится с ними возиться",
      "mode": 0,
      "chara": [313],
      "done": false
@@ -13412,7 +13442,7 @@ var datach = {
      "name": "Algerian syndrome: Campfire",
      "mode": 0,
      "chara": [313],
-     "done": false
+     "done": true
     },
     {"id": 2837,
      "start": new Date(2016, 3, 6, 0, 0),
