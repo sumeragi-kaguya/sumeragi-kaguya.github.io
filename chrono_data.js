@@ -5646,16 +5646,6 @@ var datach = {
      "chara": [30, 229],
      "done": true
     },
-    {"id": 2198,
-     "start": new Date(2017, 9, 20, 6, 0),
-     "end": new Date(2017, 9, 20, 9, 0),
-     "tz": 10,
-     "turn": 4,
-     "name": "Если бы молодость знала",
-     "mode": 0,
-     "chara": [],
-     "done": false
-    },
     {"id": 1221,
      "start": new Date(2017, 9, 20, 6, 40),
      "end": new Date(2017, 9, 20, 8, 0),
@@ -8888,7 +8878,7 @@ var datach = {
      "name": "Burden",
      "mode": 0,
      "chara": [7, 74, 236],
-     "done": false
+     "done": true
     },
     {"id": 2354,
      "start": new Date(2017, 11, 6, 9, 0),
@@ -9020,16 +9010,6 @@ var datach = {
      "chara": [],
      "done": true
     },
-    {"id": 2728,
-     "start": new Date(2017, 11, 7, 12, 0),
-     "end": new Date(2017, 11, 7, 13, 40),
-     "tz": 9,
-     "turn": 6,
-     "name": "Nunnally in Wonderland",
-     "mode": 0,
-     "chara": [7],
-     "done": false
-    },
     {"id": 2427,
      "start": new Date(2017, 11, 7, 12, 0),
      "end": new Date(2017, 11, 7, 21, 0),
@@ -9108,7 +9088,7 @@ var datach = {
      "name": "Бремя сильных духом",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2156,
      "start": new Date(2017, 11, 8, 12, 20),
@@ -9169,16 +9149,6 @@ var datach = {
      "mode": 0,
      "chara": [216],
      "done": true
-    },
-    {"id": 2524,
-     "start": new Date(2017, 11, 8, 17, 30),
-     "end": new Date(2017, 11, 8, 20, 0),
-     "tz": 13,
-     "turn": 6,
-     "name": "Воссоединение",
-     "mode": 0,
-     "chara": [295, 294],
-     "done": false
     },
     {"id": 2466,
      "start": new Date(2017, 11, 8, 20, 0),
@@ -9759,16 +9729,6 @@ var datach = {
      "mode": 0,
      "chara": [],
      "done": true
-    },
-    {"id": 2448,
-     "start": new Date(2017, 11, 14, 5, 0),
-     "end": new Date(2017, 11, 14, 7, 0),
-     "tz": 10,
-     "turn": 6,
-     "name": "В городском саду падал снег",
-     "mode": 0,
-     "chara": [253],
-     "done": false
     },
     {"id": 2277,
      "start": new Date(2017, 11, 14, 5, 0),
@@ -10550,16 +10510,6 @@ var datach = {
      "chara": [239, 226],
      "done": true
     },
-    {"id": 2213,
-     "start": new Date(2017, 11, 24, 23, 0),
-     "end": new Date(2017, 11, 25, 1, 0),
-     "tz": 0,
-     "turn": 6,
-     "name": "Прежде, чем звезда упадет",
-     "mode": 0,
-     "chara": [299, 236],
-     "done": false
-    },
     {"id": 2763,
      "start": new Date(2017, 11, 25, 0, 0),
      "end": new Date(2017, 11, 25, 4, 0),
@@ -10940,16 +10890,6 @@ var datach = {
      "name": "Double Flash",
      "mode": 0,
      "chara": [258, 72],
-     "done": false
-    },
-    {"id": 2555,
-     "start": new Date(2018, 0, 2, 5, 0),
-     "end": new Date(2018, 0, 3, 3, 0),
-     "tz": 13,
-     "turn": 7,
-     "name": "Во имя чести",
-     "mode": 0,
-     "chara": [26],
      "done": false
     },
     {"id": 2566,
@@ -12122,6 +12062,16 @@ var datach = {
      "chara": [146],
      "done": true
     },
+    {"id": 2893,
+     "start": new Date(2018, 0, 17, 2, 0),
+     "end": new Date(2018, 0, 17, 4, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Отказ от подачек",
+     "mode": 0,
+     "chara": [1, 49, 3, 122, 37, 86],
+     "done": false
+    },
     {"id": 2697,
      "start": new Date(2018, 0, 17, 4, 0),
      "end": new Date(2018, 0, 17, 8, 0),
@@ -12430,7 +12380,7 @@ var datach = {
      "name": "Together or not",
      "mode": 0,
      "chara": [308],
-     "done": false
+     "done": true
     },
     {"id": 2785,
      "start": new Date(2018, 0, 21, 21, 10),
@@ -12660,7 +12610,7 @@ var datach = {
      "name": "Orange wave",
      "mode": 0,
      "chara": [118],
-     "done": false
+     "done": true
     },
     {"id": 2850,
      "start": new Date(2018, 0, 25, 6, 30),
@@ -12700,6 +12650,16 @@ var datach = {
      "name": "Карты, ведьмы, три монеты",
      "mode": 0,
      "chara": [313],
+     "done": true
+    },
+    {"id": 2891,
+     "start": new Date(2018, 0, 26, 2, 0),
+     "end": new Date(2018, 0, 26, 4, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Тут справок не дают",
+     "mode": 0,
+     "chara": [118],
      "done": true
     },
     {"id": 2887,
@@ -12750,7 +12710,7 @@ var datach = {
      "name": "Легион Его Императорского Величества",
      "mode": 0,
      "chara": [90, 180],
-     "done": false
+     "done": true
     },
     {"id": 2888,
      "start": new Date(2018, 0, 27, 3, 0),
@@ -12772,6 +12732,16 @@ var datach = {
      "chara": [40, 119],
      "done": false
     },
+    {"id": 2890,
+     "start": new Date(2018, 0, 27, 5, 0),
+     "end": new Date(2018, 0, 27, 7, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Лучше ли старый друг новых десяти?",
+     "mode": 0,
+     "chara": [313],
+     "done": false
+    },
     {"id": 2819,
      "start": new Date(2018, 0, 27, 12, 30),
      "end": new Date(2018, 0, 27, 13, 59),
@@ -12788,6 +12758,16 @@ var datach = {
      "tz": 16,
      "turn": 7,
      "name": "Из Гонконга с любовью",
+     "mode": 0,
+     "chara": [313],
+     "done": false
+    },
+    {"id": 2892,
+     "start": new Date(2018, 0, 27, 18, 0),
+     "end": new Date(2018, 0, 27, 19, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Night was not so terrible",
      "mode": 0,
      "chara": [313],
      "done": false
