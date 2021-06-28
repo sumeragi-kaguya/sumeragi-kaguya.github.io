@@ -7828,16 +7828,6 @@ var datach = {
      "chara": [250, 118],
      "done": true
     },
-    {"id": 2802,
-     "start": new Date(2017, 10, 22, 0, 30),
-     "end": new Date(2017, 10, 22, 2, 0),
-     "tz": 0,
-     "turn": 5,
-     "name": "All of first...",
-     "mode": 0,
-     "chara": [235],
-     "done": false
-    },
     {"id": 2353,
      "start": new Date(2017, 10, 22, 2, 0),
      "end": new Date(2017, 10, 22, 2, 50),
@@ -8938,7 +8928,7 @@ var datach = {
      "name": "Крещённые огнём",
      "mode": 0,
      "chara": [28, 192],
-     "done": false
+     "done": true
     },
     {"id": 2145,
      "start": new Date(2017, 11, 7, 0, 0),
@@ -9670,16 +9660,6 @@ var datach = {
      "chara": [72, 10, 148, 216],
      "done": true
     },
-    {"id": 2508,
-     "start": new Date(2017, 11, 13, 10, 0),
-     "end": new Date(2017, 11, 13, 12, 0),
-     "tz": 8,
-     "turn": 6,
-     "name": "Defiance of Greece",
-     "mode": 0,
-     "chara": [],
-     "done": false
-    },
     {"id": 2296,
      "start": new Date(2017, 11, 13, 15, 0),
      "end": new Date(2017, 11, 13, 23, 0),
@@ -9808,7 +9788,7 @@ var datach = {
      "name": "Туманное будущее",
      "mode": 0,
      "chara": [182, 188],
-     "done": false
+     "done": true
     },
     {"id": 2885,
      "start": new Date(2017, 11, 15, 2, 0),
@@ -10750,16 +10730,6 @@ var datach = {
      "chara": [29, 278, 265],
      "done": true
     },
-    {"id": 2727,
-     "start": new Date(2017, 11, 30, 8, 0),
-     "end": new Date(2017, 11, 30, 9, 0),
-     "tz": 10,
-     "turn": 6,
-     "name": "Мозгоправ",
-     "mode": 0,
-     "chara": [96, 278],
-     "done": false
-    },
     {"id": 2510,
      "start": new Date(2017, 11, 30, 14, 0),
      "end": new Date(2017, 11, 30, 18, 0),
@@ -10818,16 +10788,6 @@ var datach = {
      "name": "Но ведь я буду рядом",
      "mode": 0,
      "chara": [303, 28],
-     "done": false
-    },
-    {"id": 2726,
-     "start": new Date(2017, 11, 31, 10, 0),
-     "end": new Date(2017, 11, 31, 11, 0),
-     "tz": 10,
-     "turn": 6,
-     "name": "Не вели меня казнить",
-     "mode": 0,
-     "chara": [96, 90],
      "done": false
     },
     {"id": 2678,
@@ -10960,7 +10920,7 @@ var datach = {
      "name": "Моя Эвридика",
      "mode": 0,
      "chara": [290],
-     "done": false
+     "done": true
     },
     {"id": 2498,
      "start": new Date(2018, 0, 2, 22, 30),
@@ -11472,16 +11432,6 @@ var datach = {
      "chara": [18, 5, 61],
      "done": false
     },
-    {"id": 2716,
-     "start": new Date(2018, 0, 9, 20, 0),
-     "end": new Date(2018, 0, 9, 21, 0),
-     "tz": 1,
-     "turn": 7,
-     "name": "След упавшей звезды",
-     "mode": 0,
-     "chara": [103, 163],
-     "done": false
-    },
     {"id": 2725,
      "start": new Date(2018, 0, 9, 22, 0),
      "end": new Date(2018, 0, 10, 0, 0),
@@ -11920,7 +11870,7 @@ var datach = {
      "name": "Just do it",
      "mode": 0,
      "chara": [313, 98, 121],
-     "done": false
+     "done": true
     },
     {"id": 2762,
      "start": new Date(2018, 0, 15, 9, 0),
@@ -12000,7 +11950,7 @@ var datach = {
      "name": "Невыносимая четкость бытия",
      "mode": 0,
      "chara": [1],
-     "done": false
+     "done": true
     },
     {"id": 2845,
      "start": new Date(2018, 0, 16, 8, 0),
@@ -12041,16 +11991,6 @@ var datach = {
      "mode": 0,
      "chara": [88, 270],
      "done": true
-    },
-    {"id": 2788,
-     "start": new Date(2018, 0, 16, 21, 0),
-     "end": new Date(2018, 0, 16, 23, 0),
-     "tz": 7,
-     "turn": 7,
-     "name": "Горящие крылья: Альбион эдишн",
-     "mode": 0,
-     "chara": [305],
-     "done": false
     },
     {"id": 2744,
      "start": new Date(2018, 0, 17, 2, 0),
@@ -12210,7 +12150,7 @@ var datach = {
      "name": "(А)моральные вопросы",
      "mode": 0,
      "chara": [313, 146],
-     "done": false
+     "done": true
     },
     {"id": 2883,
      "start": new Date(2018, 0, 19, 7, 0),
@@ -12430,7 +12370,7 @@ var datach = {
      "name": "Проблемы поколений",
      "mode": 0,
      "chara": [270],
-     "done": false
+     "done": true
     },
     {"id": 2715,
      "start": new Date(2018, 0, 22, 14, 1),
