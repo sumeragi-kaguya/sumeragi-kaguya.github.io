@@ -11112,16 +11112,6 @@ var datach = {
      "chara": [167, 259],
      "done": true
     },
-    {"id": 2673,
-     "start": new Date(2018, 0, 6, 10, 0),
-     "end": new Date(2018, 0, 6, 15, 0),
-     "tz": 23,
-     "turn": 7,
-     "name": "Игры, в которые не играют принцессы",
-     "mode": 0,
-     "chara": [269],
-     "done": false
-    },
     {"id": 2608,
      "start": new Date(2018, 0, 6, 11, 0),
      "end": new Date(2018, 0, 6, 17, 0),
@@ -11200,7 +11190,7 @@ var datach = {
      "name": "Морская капуста",
      "mode": 0,
      "chara": [72, 216, 295, 294, 10],
-     "done": false
+     "done": true
     },
     {"id": 2724,
      "start": new Date(2018, 0, 7, 16, 0),
@@ -11682,16 +11672,6 @@ var datach = {
      "chara": [257, 29, 64],
      "done": true
     },
-    {"id": 2834,
-     "start": new Date(2018, 0, 11, 17, 20),
-     "end": new Date(2018, 0, 11, 18, 40),
-     "tz": 1,
-     "turn": 7,
-     "name": "Туши свет, бросай гранату",
-     "mode": 0,
-     "chara": [332],
-     "done": false
-    },
     {"id": 2652,
      "start": new Date(2018, 0, 11, 21, 0),
      "end": new Date(2018, 0, 12, 4, 0),
@@ -11720,7 +11700,7 @@ var datach = {
      "name": "Операция «Мотылёк»",
      "mode": 0,
      "chara": [321, 26, 28, 303],
-     "done": false
+     "done": true
     },
     {"id": 2679,
      "start": new Date(2018, 0, 12, 7, 0),
@@ -12200,7 +12180,7 @@ var datach = {
      "name": "Очень злые водопроводчики",
      "mode": 0,
      "chara": [84, 290, 316, 317],
-     "done": false
+     "done": true
     },
     {"id": 2844,
      "start": new Date(2018, 0, 19, 13, 0),
@@ -12210,7 +12190,7 @@ var datach = {
      "name": "Соляные столпы",
      "mode": 0,
      "chara": [326, 177, 283, 282, 289],
-     "done": false
+     "done": true
     },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
@@ -12231,6 +12211,16 @@ var datach = {
      "mode": 0,
      "chara": [311],
      "done": true
+    },
+    {"id": 2895,
+     "start": new Date(2018, 0, 20, 1, 0),
+     "end": new Date(2018, 0, 20, 3, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Так много вопросов...",
+     "mode": 0,
+     "chara": [84, 290],
+     "done": false
     },
     {"id": 2737,
      "start": new Date(2018, 0, 20, 5, 0),
@@ -12261,6 +12251,16 @@ var datach = {
      "mode": 0,
      "chara": [40, 235],
      "done": true
+    },
+    {"id": 2896,
+     "start": new Date(2018, 0, 20, 14, 30),
+     "end": new Date(2018, 0, 20, 17, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Ночное рандеву",
+     "mode": 0,
+     "chara": [290],
+     "done": false
     },
     {"id": 2686,
      "start": new Date(2018, 0, 20, 14, 30),
@@ -12430,7 +12430,7 @@ var datach = {
      "name": "Запах металла по утру",
      "mode": 0,
      "chara": [88, 270],
-     "done": false
+     "done": true
     },
     {"id": 2787,
      "start": new Date(2018, 0, 23, 14, 0),
@@ -12682,6 +12682,16 @@ var datach = {
      "chara": [313],
      "done": false
     },
+    {"id": 2894,
+     "start": new Date(2018, 0, 27, 6, 30),
+     "end": new Date(2018, 0, 27, 7, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Caretaker of Legion",
+     "mode": 0,
+     "chara": [89],
+     "done": true
+    },
     {"id": 2819,
      "start": new Date(2018, 0, 27, 12, 30),
      "end": new Date(2018, 0, 27, 13, 59),
@@ -12740,7 +12750,7 @@ var datach = {
      "name": "Игры разума",
      "mode": 0,
      "chara": [111, 90],
-     "done": false
+     "done": true
     }
   ],
   "0": [
@@ -13453,16 +13463,6 @@ var datach = {
      "mode": 0,
      "chara": [96, 88],
      "done": true
-    },
-    {"id": 2796,
-     "start": new Date(2016, 6, 14, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "У меня зазвонил телефон",
-     "mode": 0,
-     "chara": [111, 290],
-     "done": false
     },
     {"id": 1159,
      "start": new Date(2016, 8, 3, 0, 0),
