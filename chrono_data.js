@@ -11280,7 +11280,7 @@ var datach = {
      "name": "Срок до первого выстрела",
      "mode": 0,
      "chara": [18, 226],
-     "done": false
+     "done": true
     },
     {"id": 2622,
      "start": new Date(2018, 0, 8, 11, 0),
@@ -11291,16 +11291,6 @@ var datach = {
      "mode": 0,
      "chara": [90],
      "done": true
-    },
-    {"id": 2776,
-     "start": new Date(2018, 0, 8, 11, 0),
-     "end": new Date(2018, 0, 8, 16, 0),
-     "tz": 16,
-     "turn": 7,
-     "name": "For a rainy day",
-     "mode": 0,
-     "chara": [122],
-     "done": false
     },
     {"id": 2806,
      "start": new Date(2018, 0, 8, 13, 30),
@@ -11711,6 +11701,16 @@ var datach = {
      "mode": 0,
      "chara": [90],
      "done": true
+    },
+    {"id": 2899,
+     "start": new Date(2018, 0, 12, 10, 30),
+     "end": new Date(2018, 0, 12, 12, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Любить не значит обладать",
+     "mode": 0,
+     "chara": [96],
+     "done": false
     },
     {"id": 2663,
      "start": new Date(2018, 0, 13, 2, 0),
@@ -12412,16 +12412,6 @@ var datach = {
      "chara": [4, 250],
      "done": true
     },
-    {"id": 2772,
-     "start": new Date(2018, 0, 22, 20, 0),
-     "end": new Date(2018, 0, 22, 22, 0),
-     "tz": 16,
-     "turn": 7,
-     "name": "Проходной двор",
-     "mode": 0,
-     "chara": [18, 98, 328],
-     "done": false
-    },
     {"id": 2864,
      "start": new Date(2018, 0, 23, 5, 0),
      "end": new Date(2018, 0, 23, 7, 0),
@@ -12622,6 +12612,16 @@ var datach = {
      "chara": [253, 90],
      "done": true
     },
+    {"id": 2898,
+     "start": new Date(2018, 0, 26, 7, 0),
+     "end": new Date(2018, 0, 26, 12, 30),
+     "tz": 7,
+     "turn": 7,
+     "name": "The Big Score",
+     "mode": 0,
+     "chara": [278],
+     "done": false
+    },
     {"id": 2851,
      "start": new Date(2018, 0, 26, 18, 0),
      "end": new Date(2018, 0, 26, 21, 0),
@@ -12720,7 +12720,7 @@ var datach = {
      "name": "Night was not so terrible",
      "mode": 0,
      "chara": [313],
-     "done": false
+     "done": true
     },
     {"id": 2868,
      "start": new Date(2018, 0, 27, 23, 0),
@@ -12730,6 +12730,16 @@ var datach = {
      "name": "Страсти по Химчистке: Mr. Teatime",
      "mode": 0,
      "chara": [],
+     "done": false
+    },
+    {"id": 2897,
+     "start": new Date(2018, 0, 28, 3, 30),
+     "end": new Date(2018, 0, 28, 5, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "The Less I Know the Better",
+     "mode": 0,
+     "chara": [313, 118, 322],
      "done": false
     },
     {"id": 2877,
