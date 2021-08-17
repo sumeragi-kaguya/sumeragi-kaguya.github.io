@@ -10830,7 +10830,7 @@ var datach = {
      "name": "Fortitude",
      "mode": 0,
      "chara": [18],
-     "done": false
+     "done": true
     },
     {"id": 2759,
      "start": new Date(2018, 0, 1, 21, 45),
@@ -11161,6 +11161,16 @@ var datach = {
      "mode": 0,
      "chara": [84],
      "done": true
+    },
+    {"id": 2903,
+     "start": new Date(2018, 0, 7, 9, 30),
+     "end": new Date(2018, 0, 7, 11, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Рождественский подарок Мальченко",
+     "mode": 0,
+     "chara": [90, 96],
+     "done": false
     },
     {"id": 2669,
      "start": new Date(2018, 0, 7, 10, 0),
@@ -11680,7 +11690,7 @@ var datach = {
      "name": "На игре",
      "mode": 0,
      "chara": [250],
-     "done": false
+     "done": true
     },
     {"id": 2705,
      "start": new Date(2018, 0, 12, 5, 0),
@@ -11710,7 +11720,7 @@ var datach = {
      "name": "Любить не значит обладать",
      "mode": 0,
      "chara": [96],
-     "done": false
+     "done": true
     },
     {"id": 2663,
      "start": new Date(2018, 0, 13, 2, 0),
@@ -11820,7 +11830,7 @@ var datach = {
      "name": "9.9 по шкале Рихтера",
      "mode": 0,
      "chara": [18, 5, 66, 313, 121],
-     "done": false
+     "done": true
     },
     {"id": 2674,
      "start": new Date(2018, 0, 15, 4, 0),
@@ -12082,6 +12092,16 @@ var datach = {
      "chara": [313],
      "done": true
     },
+    {"id": 2904,
+     "start": new Date(2018, 0, 17, 19, 0),
+     "end": new Date(2018, 0, 17, 20, 0),
+     "tz": 5,
+     "turn": 7,
+     "name": "Нож под ребро",
+     "mode": 0,
+     "chara": [257, 96],
+     "done": false
+    },
     {"id": 2656,
      "start": new Date(2018, 0, 17, 23, 10),
      "end": new Date(2018, 0, 18, 0, 20),
@@ -12219,7 +12239,7 @@ var datach = {
      "turn": 7,
      "name": "Так много вопросов...",
      "mode": 0,
-     "chara": [84, 290],
+     "chara": [84, 290, 289],
      "done": false
     },
     {"id": 2737,
@@ -12260,7 +12280,7 @@ var datach = {
      "name": "Ночное рандеву",
      "mode": 0,
      "chara": [290],
-     "done": false
+     "done": true
     },
     {"id": 2686,
      "start": new Date(2018, 0, 20, 14, 30),
@@ -12360,7 +12380,7 @@ var datach = {
      "name": "Отголоски величия",
      "mode": 0,
      "chara": [182],
-     "done": false
+     "done": true
     },
     {"id": 2803,
      "start": new Date(2018, 0, 22, 10, 40),
@@ -12552,6 +12572,16 @@ var datach = {
      "chara": [328],
      "done": true
     },
+    {"id": 2898,
+     "start": new Date(2018, 0, 25, 7, 0),
+     "end": new Date(2018, 0, 25, 12, 30),
+     "tz": 7,
+     "turn": 7,
+     "name": "The Big Score",
+     "mode": 0,
+     "chara": [278],
+     "done": false
+    },
     {"id": 2860,
      "start": new Date(2018, 0, 25, 12, 0),
      "end": new Date(2018, 0, 25, 21, 0),
@@ -12570,6 +12600,26 @@ var datach = {
      "name": "Viper's creed",
      "mode": 0,
      "chara": [193, 73],
+     "done": false
+    },
+    {"id": 2900,
+     "start": new Date(2018, 0, 26, 0, 0),
+     "end": new Date(2018, 0, 26, 2, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Speechless",
+     "mode": 0,
+     "chara": [71, 7],
+     "done": false
+    },
+    {"id": 2905,
+     "start": new Date(2018, 0, 26, 0, 15),
+     "end": new Date(2018, 0, 26, 2, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Aut Caesar, aut nihil",
+     "mode": 0,
+     "chara": [193, 2, 141, 152],
      "done": false
     },
     {"id": 2810,
@@ -12600,7 +12650,7 @@ var datach = {
      "name": "Это. Наш. Дом.",
      "mode": 0,
      "chara": [71, 7],
-     "done": false
+     "done": true
     },
     {"id": 2798,
      "start": new Date(2018, 0, 26, 6, 0),
@@ -12611,16 +12661,6 @@ var datach = {
      "mode": 0,
      "chara": [253, 90],
      "done": true
-    },
-    {"id": 2898,
-     "start": new Date(2018, 0, 26, 7, 0),
-     "end": new Date(2018, 0, 26, 12, 30),
-     "tz": 7,
-     "turn": 7,
-     "name": "The Big Score",
-     "mode": 0,
-     "chara": [278],
-     "done": false
     },
     {"id": 2851,
      "start": new Date(2018, 0, 26, 18, 0),
@@ -12638,6 +12678,16 @@ var datach = {
      "tz": 10,
      "turn": 7,
      "name": "Страсти по химчистке: Damsel in da Stress",
+     "mode": 0,
+     "chara": [],
+     "done": true
+    },
+    {"id": 2901,
+     "start": new Date(2018, 0, 27, 0, 1),
+     "end": new Date(2018, 0, 27, 0, 20),
+     "tz": 0,
+     "turn": 7,
+     "name": "Тайфун",
      "mode": 0,
      "chara": [],
      "done": true
