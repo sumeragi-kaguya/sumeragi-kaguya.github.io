@@ -9920,16 +9920,6 @@ var datach = {
      "chara": [291],
      "done": true
     },
-    {"id": 2709,
-     "start": new Date(2017, 11, 16, 23, 0),
-     "end": new Date(2017, 11, 17, 2, 0),
-     "tz": 10,
-     "turn": 6,
-     "name": "Подслушано в Санкт-Петербурге",
-     "mode": 0,
-     "chara": [253, 182, 214],
-     "done": false
-    },
     {"id": 2423,
      "start": new Date(2017, 11, 17, 6, 0),
      "end": new Date(2017, 11, 17, 10, 0),
@@ -10678,7 +10668,7 @@ var datach = {
      "name": "Там, где птицы не поют",
      "mode": 0,
      "chara": [320, 26],
-     "done": false
+     "done": true
     },
     {"id": 2688,
      "start": new Date(2017, 11, 27, 11, 45),
@@ -10881,16 +10871,6 @@ var datach = {
      "mode": 0,
      "chara": [292],
      "done": true
-    },
-    {"id": 2809,
-     "start": new Date(2018, 0, 2, 10, 15),
-     "end": new Date(2018, 0, 2, 15, 0),
-     "tz": 13,
-     "turn": 7,
-     "name": "Arteen, wake up!",
-     "mode": 0,
-     "chara": [111],
-     "done": false
     },
     {"id": 2565,
      "start": new Date(2018, 0, 2, 13, 0),
@@ -11232,6 +11212,16 @@ var datach = {
      "chara": [283, 282],
      "done": true
     },
+    {"id": 2908,
+     "start": new Date(2018, 0, 7, 22, 0),
+     "end": new Date(2018, 0, 8, 5, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Во все нелёгкие",
+     "mode": 0,
+     "chara": [239, 226],
+     "done": false
+    },
     {"id": 2784,
      "start": new Date(2018, 0, 8, 1, 0),
      "end": new Date(2018, 0, 8, 4, 0),
@@ -11352,16 +11342,6 @@ var datach = {
      "chara": [300],
      "done": true
     },
-    {"id": 2778,
-     "start": new Date(2018, 0, 8, 21, 0),
-     "end": new Date(2018, 0, 8, 21, 45),
-     "tz": 2,
-     "turn": 7,
-     "name": "Диалог о вечном",
-     "mode": 0,
-     "chara": [],
-     "done": false
-    },
     {"id": 2854,
      "start": new Date(2018, 0, 8, 22, 0),
      "end": new Date(2018, 0, 9, 0, 0),
@@ -11370,7 +11350,7 @@ var datach = {
      "name": "Я мог бы расколоть земной шар... Но начнём с найтмера",
      "mode": 0,
      "chara": [26, 277],
-     "done": false
+     "done": true
     },
     {"id": 2680,
      "start": new Date(2018, 0, 8, 23, 0),
@@ -11387,7 +11367,7 @@ var datach = {
      "end": new Date(2018, 0, 9, 7, 0),
      "tz": 8,
      "turn": 7,
-     "name": "То, что вы ищете – тоже ищет вас.",
+     "name": "То, что вы ищете – тоже ищет вас",
      "mode": 0,
      "chara": [334],
      "done": false
@@ -11640,7 +11620,7 @@ var datach = {
      "name": "Серебряный век дипломатии",
      "mode": 0,
      "chara": [268],
-     "done": false
+     "done": true
     },
     {"id": 2665,
      "start": new Date(2018, 0, 11, 8, 0),
@@ -11920,7 +11900,7 @@ var datach = {
      "name": "Где прячутся лисы?",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2747,
      "start": new Date(2018, 0, 16, 1, 30),
@@ -12102,6 +12082,16 @@ var datach = {
      "chara": [257, 96],
      "done": false
     },
+    {"id": 2906,
+     "start": new Date(2018, 0, 17, 21, 0),
+     "end": new Date(2018, 0, 18, 1, 0),
+     "tz": 15,
+     "turn": 7,
+     "name": "Дёрнуть тигра за усы",
+     "mode": 0,
+     "chara": [1, 3],
+     "done": false
+    },
     {"id": 2656,
      "start": new Date(2018, 0, 17, 23, 10),
      "end": new Date(2018, 0, 18, 0, 20),
@@ -12240,7 +12230,7 @@ var datach = {
      "name": "Так много вопросов...",
      "mode": 0,
      "chara": [84, 290, 289],
-     "done": false
+     "done": true
     },
     {"id": 2737,
      "start": new Date(2018, 0, 20, 5, 0),
@@ -12251,6 +12241,16 @@ var datach = {
      "mode": 0,
      "chara": [300, 182],
      "done": true
+    },
+    {"id": 2907,
+     "start": new Date(2018, 0, 20, 6, 0),
+     "end": new Date(2018, 0, 20, 9, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Буря в стакане",
+     "mode": 0,
+     "chara": [289, 326],
+     "done": false
     },
     {"id": 2823,
      "start": new Date(2018, 0, 20, 13, 30),
@@ -12300,7 +12300,7 @@ var datach = {
      "name": "О мышках, которые попытались съесть кошку",
      "mode": 0,
      "chara": [313],
-     "done": false
+     "done": true
     },
     {"id": 2782,
      "start": new Date(2018, 0, 21, 7, 0),
@@ -12482,6 +12482,16 @@ var datach = {
      "chara": [313, 328],
      "done": true
     },
+    {"id": 2910,
+     "start": new Date(2018, 0, 24, 7, 0),
+     "end": new Date(2018, 0, 24, 12, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "По песчаному следу",
+     "mode": 0,
+     "chara": [177, 292],
+     "done": false
+    },
     {"id": 2872,
      "start": new Date(2018, 0, 24, 15, 1),
      "end": new Date(2018, 0, 24, 21, 0),
@@ -12590,16 +12600,6 @@ var datach = {
      "name": "И снится нам трава у дома",
      "mode": 0,
      "chara": [257, 29, 94],
-     "done": false
-    },
-    {"id": 2661,
-     "start": new Date(2018, 0, 25, 23, 0),
-     "end": new Date(2018, 0, 26, 1, 0),
-     "tz": 9,
-     "turn": 7,
-     "name": "Viper's creed",
-     "mode": 0,
-     "chara": [193, 73],
      "done": false
     },
     {"id": 2900,
@@ -12790,6 +12790,16 @@ var datach = {
      "name": "The Less I Know the Better",
      "mode": 0,
      "chara": [313, 118, 322],
+     "done": true
+    },
+    {"id": 2909,
+     "start": new Date(2018, 0, 28, 6, 10),
+     "end": new Date(2018, 0, 28, 10, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Коммунальная квартира",
+     "mode": 0,
+     "chara": [309, 313, 118, 322],
      "done": false
     },
     {"id": 2877,
@@ -12800,6 +12810,26 @@ var datach = {
      "name": "Страсти по Химчистке. Спин-офф: Girl's Night Out",
      "mode": 0,
      "chara": [],
+     "done": false
+    },
+    {"id": 2914,
+     "start": new Date(2018, 0, 28, 23, 30),
+     "end": new Date(2018, 0, 29, 0, 45),
+     "tz": 16,
+     "turn": 7,
+     "name": "Цена дружбы",
+     "mode": 0,
+     "chara": [328],
+     "done": false
+    },
+    {"id": 2911,
+     "start": new Date(2018, 0, 29, 3, 0),
+     "end": new Date(2018, 0, 29, 9, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Цена одного выстрела",
+     "mode": 0,
+     "chara": [331],
      "done": false
     },
     {"id": 2849,
@@ -12833,16 +12863,6 @@ var datach = {
      "mode": 0,
      "chara": [64, 258],
      "done": true
-    },
-    {"id": 2195,
-     "start": new Date(1990, 6, 17, 0, 0),
-     "end": new Date(2017, 0, 1, 0, 0),
-     "tz": 0,
-     "turn": 0,
-     "name": "\"One time for old times\"",
-     "mode": 0,
-     "chara": [270],
-     "done": false
     },
     {"id": 426,
      "start": new Date(1996, 6, 1, 0, 0),
@@ -13074,16 +13094,6 @@ var datach = {
      "chara": [268],
      "done": true
     },
-    {"id": 2518,
-     "start": new Date(2012, 3, 12, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Ni Dieu ni ma&#238;tre",
-     "mode": 0,
-     "chara": [270],
-     "done": false
-    },
     {"id": 2816,
      "start": new Date(2012, 5, 3, 0, 0),
      "end": new Date(2012, 5, 10, 0, 0),
@@ -13184,16 +13194,6 @@ var datach = {
      "chara": [330, 304],
      "done": false
     },
-    {"id": 2589,
-     "start": new Date(2014, 8, 12, 0, 0),
-     "end": new Date(2014, 8, 15, 0, 0),
-     "tz": 0,
-     "turn": 0,
-     "name": "Однажды в Салеме",
-     "mode": 0,
-     "chara": [],
-     "done": false
-    },
     {"id": 2024,
      "start": new Date(2015, 0, 5, 0, 0),
      "end": new Date(2015, 0, 7, 0, 0),
@@ -13252,16 +13252,6 @@ var datach = {
      "name": "Кубинская гончая",
      "mode": 0,
      "chara": [257],
-     "done": false
-    },
-    {"id": 2290,
-     "start": new Date(2015, 5, 15, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Мы к вам пришли навеки поселиться",
-     "mode": 0,
-     "chara": [280, 11],
      "done": false
     },
     {"id": 1171,
@@ -13482,16 +13472,6 @@ var datach = {
      "name": "Хороший. Плохой. Димитриди.",
      "mode": 0,
      "chara": [290],
-     "done": false
-    },
-    {"id": 2422,
-     "start": new Date(2016, 4, 14, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Double Trouble",
-     "mode": 0,
-     "chara": [3],
      "done": false
     },
     {"id": 2201,
