@@ -11870,7 +11870,7 @@ var datach = {
      "name": "Back to Square One",
      "mode": 0,
      "chara": [74, 273, 73, 193],
-     "done": false
+     "done": true
     },
     {"id": 2884,
      "start": new Date(2018, 0, 15, 11, 0),
@@ -11921,6 +11921,16 @@ var datach = {
      "mode": 0,
      "chara": [1],
      "done": true
+    },
+    {"id": 2918,
+     "start": new Date(2018, 0, 16, 3, 0),
+     "end": new Date(2018, 0, 16, 5, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Посвящение в планы",
+     "mode": 0,
+     "chara": [5, 18],
+     "done": false
     },
     {"id": 2845,
      "start": new Date(2018, 0, 16, 8, 0),
