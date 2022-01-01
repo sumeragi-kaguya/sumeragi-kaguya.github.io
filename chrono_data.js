@@ -10658,7 +10658,7 @@ var datach = {
      "name": "We are blinded",
      "mode": 0,
      "chara": [18, 5],
-     "done": false
+     "done": true
     },
     {"id": 2713,
      "start": new Date(2017, 11, 27, 9, 0),
@@ -10960,7 +10960,7 @@ var datach = {
      "name": "Модернизация, инновация, дежавю",
      "mode": 0,
      "chara": [295, 87, 111],
-     "done": false
+     "done": true
     },
     {"id": 2630,
      "start": new Date(2018, 0, 4, 17, 30),
@@ -11400,7 +11400,7 @@ var datach = {
      "name": "Ливень в горах",
      "mode": 0,
      "chara": [18, 5, 61],
-     "done": false
+     "done": true
     },
     {"id": 2725,
      "start": new Date(2018, 0, 9, 22, 0),
@@ -11410,7 +11410,7 @@ var datach = {
      "name": "Statutum Armorum",
      "mode": 0,
      "chara": [72, 115],
-     "done": false
+     "done": true
     },
     {"id": 2628,
      "start": new Date(2018, 0, 9, 22, 0),
@@ -11712,6 +11712,16 @@ var datach = {
      "chara": [292],
      "done": true
     },
+    {"id": 2921,
+     "start": new Date(2018, 0, 13, 5, 0),
+     "end": new Date(2018, 0, 13, 7, 0),
+     "tz": 13,
+     "turn": 7,
+     "name": "Где-то я это уже видел",
+     "mode": 0,
+     "chara": [26],
+     "done": false
+    },
     {"id": 2655,
      "start": new Date(2018, 0, 13, 7, 0),
      "end": new Date(2018, 0, 14, 1, 0),
@@ -11770,7 +11780,7 @@ var datach = {
      "name": "Опиум для никого",
      "mode": 0,
      "chara": [74, 64],
-     "done": false
+     "done": true
     },
     {"id": 2626,
      "start": new Date(2018, 0, 14, 19, 15),
@@ -12050,7 +12060,7 @@ var datach = {
      "name": "Охотник и добыча",
      "mode": 0,
      "chara": [324, 325],
-     "done": false
+     "done": true
     },
     {"id": 2786,
      "start": new Date(2018, 0, 17, 16, 0),
@@ -12131,6 +12141,16 @@ var datach = {
      "mode": 0,
      "chara": [],
      "done": true
+    },
+    {"id": 2924,
+     "start": new Date(2018, 0, 19, 2, 0),
+     "end": new Date(2018, 0, 19, 4, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Ноктюрн для сакуры с оркестром",
+     "mode": 0,
+     "chara": [49, 5],
+     "done": false
     },
     {"id": 2826,
      "start": new Date(2018, 0, 19, 2, 0),
@@ -12260,7 +12280,7 @@ var datach = {
      "name": "Буря в стакане",
      "mode": 0,
      "chara": [289, 326],
-     "done": false
+     "done": true
     },
     {"id": 2823,
      "start": new Date(2018, 0, 20, 13, 30),
@@ -12311,6 +12331,16 @@ var datach = {
      "mode": 0,
      "chara": [313],
      "done": true
+    },
+    {"id": 2919,
+     "start": new Date(2018, 0, 20, 22, 30),
+     "end": new Date(2018, 0, 20, 23, 30),
+     "tz": 9,
+     "turn": 7,
+     "name": "Мёртвые не обижаются",
+     "mode": 0,
+     "chara": [290, 84],
+     "done": false
     },
     {"id": 2782,
      "start": new Date(2018, 0, 21, 7, 0),
@@ -12604,13 +12634,13 @@ var datach = {
     },
     {"id": 2860,
      "start": new Date(2018, 0, 25, 12, 0),
-     "end": new Date(2018, 0, 25, 21, 0),
+     "end": new Date(2018, 0, 25, 14, 0),
      "tz": 3,
      "turn": 7,
      "name": "И снится нам трава у дома",
      "mode": 0,
      "chara": [257, 29, 94],
-     "done": false
+     "done": true
     },
     {"id": 2900,
      "start": new Date(2018, 0, 26, 0, 0),
@@ -12790,7 +12820,7 @@ var datach = {
      "name": "Страсти по Химчистке: Mr. Teatime",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2897,
      "start": new Date(2018, 0, 28, 3, 30),
@@ -13442,7 +13472,7 @@ var datach = {
      "name": "Algerian Syndrome: The Girl Who Smells Like Sunflowers",
      "mode": 0,
      "chara": [313],
-     "done": false
+     "done": true
     },
     {"id": 2756,
      "start": new Date(2016, 3, 7, 0, 0),
