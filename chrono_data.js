@@ -10810,7 +10810,7 @@ var datach = {
      "name": "Школьные годы чудесные",
      "mode": 0,
      "chara": [239, 226],
-     "done": false
+     "done": true
     },
     {"id": 2585,
      "start": new Date(2018, 0, 1, 20, 0),
@@ -10821,16 +10821,6 @@ var datach = {
      "mode": 0,
      "chara": [18],
      "done": true
-    },
-    {"id": 2759,
-     "start": new Date(2018, 0, 1, 21, 45),
-     "end": new Date(2018, 0, 1, 22, 30),
-     "tz": 15,
-     "turn": 7,
-     "name": "Я видела Бога. И то был сущий Дьявол",
-     "mode": 0,
-     "chara": [281, 61],
-     "done": false
     },
     {"id": 2710,
      "start": new Date(2018, 0, 2, 3, 0),
@@ -11940,6 +11930,16 @@ var datach = {
      "name": "Посвящение в планы",
      "mode": 0,
      "chara": [5, 18],
+     "done": true
+    },
+    {"id": 2920,
+     "start": new Date(2018, 0, 16, 4, 0),
+     "end": new Date(2018, 0, 16, 6, 0),
+     "tz": 12,
+     "turn": 7,
+     "name": "The Once and Future Heroes",
+     "mode": 0,
+     "chara": [72, 26, 115],
      "done": false
     },
     {"id": 2845,
@@ -12000,7 +12000,7 @@ var datach = {
      "name": "Отказ от подачек",
      "mode": 0,
      "chara": [1, 49, 3, 122, 37, 86],
-     "done": false
+     "done": true
     },
     {"id": 2697,
      "start": new Date(2018, 0, 17, 4, 0),
@@ -12062,16 +12062,6 @@ var datach = {
      "chara": [324, 325],
      "done": true
     },
-    {"id": 2786,
-     "start": new Date(2018, 0, 17, 16, 0),
-     "end": new Date(2018, 0, 17, 21, 0),
-     "tz": 13,
-     "turn": 7,
-     "name": "Рыцарь ГСБ",
-     "mode": 0,
-     "chara": [111],
-     "done": false
-    },
     {"id": 2799,
      "start": new Date(2018, 0, 17, 17, 0),
      "end": new Date(2018, 0, 17, 19, 0),
@@ -12110,7 +12100,7 @@ var datach = {
      "name": "Дёрнуть тигра за усы",
      "mode": 0,
      "chara": [1, 3],
-     "done": false
+     "done": true
     },
     {"id": 2656,
      "start": new Date(2018, 0, 17, 23, 10),
@@ -12150,6 +12140,16 @@ var datach = {
      "name": "Ноктюрн для сакуры с оркестром",
      "mode": 0,
      "chara": [49, 5],
+     "done": false
+    },
+    {"id": 2928,
+     "start": new Date(2018, 0, 19, 2, 0),
+     "end": new Date(2018, 0, 19, 4, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Симфония на нервах",
+     "mode": 0,
+     "chara": [18, 272],
      "done": false
     },
     {"id": 2826,
@@ -12282,14 +12282,14 @@ var datach = {
      "chara": [289, 326],
      "done": true
     },
-    {"id": 2823,
-     "start": new Date(2018, 0, 20, 13, 30),
-     "end": new Date(2018, 0, 20, 14, 40),
-     "tz": 1,
+    {"id": 2929,
+     "start": new Date(2018, 0, 20, 11, 0),
+     "end": new Date(2018, 0, 20, 15, 0),
+     "tz": 9,
      "turn": 7,
-     "name": " Открой свой разум",
+     "name": "Не белый фосфор, но подсластить может",
      "mode": 0,
-     "chara": [314],
+     "chara": [282, 283, 289, 326],
      "done": false
     },
     {"id": 2847,
@@ -12542,16 +12542,6 @@ var datach = {
      "chara": [74],
      "done": true
     },
-    {"id": 2878,
-     "start": new Date(2018, 0, 24, 15, 1),
-     "end": new Date(2018, 0, 24, 18, 0),
-     "tz": 9,
-     "turn": 7,
-     "name": "White Death",
-     "mode": 0,
-     "chara": [],
-     "done": false
-    },
     {"id": 2811,
      "start": new Date(2018, 0, 24, 20, 0),
      "end": new Date(2018, 0, 25, 5, 0),
@@ -12642,16 +12632,6 @@ var datach = {
      "chara": [257, 29, 94],
      "done": true
     },
-    {"id": 2900,
-     "start": new Date(2018, 0, 26, 0, 0),
-     "end": new Date(2018, 0, 26, 2, 0),
-     "tz": 9,
-     "turn": 7,
-     "name": "Speechless",
-     "mode": 0,
-     "chara": [71, 7],
-     "done": false
-    },
     {"id": 2905,
      "start": new Date(2018, 0, 26, 0, 15),
      "end": new Date(2018, 0, 26, 2, 0),
@@ -12722,6 +12702,16 @@ var datach = {
      "chara": [],
      "done": true
     },
+    {"id": 2900,
+     "start": new Date(2018, 0, 27, 0, 0),
+     "end": new Date(2018, 0, 27, 2, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Speechless",
+     "mode": 0,
+     "chara": [71, 7],
+     "done": false
+    },
     {"id": 2901,
      "start": new Date(2018, 0, 27, 0, 1),
      "end": new Date(2018, 0, 27, 0, 20),
@@ -12759,7 +12749,7 @@ var datach = {
      "turn": 7,
      "name": "Moth into flame",
      "mode": 0,
-     "chara": [40, 119],
+     "chara": [40, 119, 108],
      "done": false
     },
     {"id": 2890,
@@ -12860,7 +12850,7 @@ var datach = {
      "name": "Цена дружбы",
      "mode": 0,
      "chara": [328],
-     "done": false
+     "done": true
     },
     {"id": 2911,
      "start": new Date(2018, 0, 29, 3, 0),
@@ -13284,16 +13274,6 @@ var datach = {
      "chara": [],
      "done": true
     },
-    {"id": 1998,
-     "start": new Date(2015, 5, 12, 0, 0),
-     "end": new Date(2016, 9, 15, 0, 0),
-     "tz": 0,
-     "turn": 0,
-     "name": "Кубинская гончая",
-     "mode": 0,
-     "chara": [257],
-     "done": false
-    },
     {"id": 1171,
      "start": new Date(2015, 6, 5, 0, 0),
      "end": null,
@@ -13493,6 +13473,16 @@ var datach = {
      "mode": 0,
      "chara": [63],
      "done": true
+    },
+    {"id": 2927,
+     "start": new Date(2016, 3, 12, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "Algerian syndrome: Bloody Express",
+     "mode": 0,
+     "chara": [],
+     "done": false
     },
     {"id": 2750,
      "start": new Date(2016, 4, 3, 0, 0),
