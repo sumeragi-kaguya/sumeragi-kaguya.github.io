@@ -11352,16 +11352,6 @@ var datach = {
      "chara": [151, 1],
      "done": true
     },
-    {"id": 2856,
-     "start": new Date(2018, 0, 9, 2, 0),
-     "end": new Date(2018, 0, 9, 7, 0),
-     "tz": 8,
-     "turn": 7,
-     "name": "То, что вы ищете – тоже ищет вас",
-     "mode": 0,
-     "chara": [334],
-     "done": false
-    },
     {"id": 2606,
      "start": new Date(2018, 0, 9, 11, 40),
      "end": new Date(2018, 0, 14, 19, 0),
@@ -11710,7 +11700,7 @@ var datach = {
      "name": "Где-то я это уже видел",
      "mode": 0,
      "chara": [26],
-     "done": false
+     "done": true
     },
     {"id": 2655,
      "start": new Date(2018, 0, 13, 7, 0),
@@ -11852,16 +11842,6 @@ var datach = {
      "chara": [74, 273, 7],
      "done": false
     },
-    {"id": 2773,
-     "start": new Date(2018, 0, 15, 10, 0),
-     "end": new Date(2018, 0, 15, 12, 0),
-     "tz": 16,
-     "turn": 7,
-     "name": "Тьма после полуночи",
-     "mode": 0,
-     "chara": [122, 49, 151],
-     "done": false
-    },
     {"id": 2662,
      "start": new Date(2018, 0, 15, 11, 0),
      "end": new Date(2018, 0, 15, 13, 0),
@@ -11940,16 +11920,6 @@ var datach = {
      "name": "The Once and Future Heroes",
      "mode": 0,
      "chara": [72, 26, 115],
-     "done": false
-    },
-    {"id": 2845,
-     "start": new Date(2018, 0, 16, 8, 0),
-     "end": new Date(2018, 0, 16, 8, 37),
-     "tz": 2,
-     "turn": 7,
-     "name": "Mission: Possible",
-     "mode": 0,
-     "chara": [333, 272],
      "done": false
     },
     {"id": 2779,
@@ -12111,16 +12081,6 @@ var datach = {
      "mode": 0,
      "chara": [308],
      "done": true
-    },
-    {"id": 2755,
-     "start": new Date(2018, 0, 18, 7, 0),
-     "end": new Date(2018, 0, 19, 0, 0),
-     "tz": 10,
-     "turn": 7,
-     "name": "Right Here Waiting",
-     "mode": 0,
-     "chara": [304],
-     "done": false
     },
     {"id": 2752,
      "start": new Date(2018, 0, 18, 16, 0),
@@ -12811,6 +12771,16 @@ var datach = {
      "mode": 0,
      "chara": [],
      "done": true
+    },
+    {"id": 2931,
+     "start": new Date(2018, 0, 28, 1, 0),
+     "end": new Date(2018, 0, 28, 3, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Очень своевременное подкрепление",
+     "mode": 0,
+     "chara": [193, 336],
+     "done": false
     },
     {"id": 2897,
      "start": new Date(2018, 0, 28, 3, 30),
