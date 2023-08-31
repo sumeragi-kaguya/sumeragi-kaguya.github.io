@@ -12189,7 +12189,7 @@ var datach = {
      "turn": 7,
      "name": "В связях, порочащих его...",
      "mode": 0,
-     "chara": [84],
+     "chara": [177, 84],
      "done": false
     },
     {"id": 2737,
@@ -12759,7 +12759,7 @@ var datach = {
      "turn": 7,
      "name": "Следы решений",
      "mode": 0,
-     "chara": [],
+     "chara": [233],
      "done": false
     },
     {"id": 2849,
