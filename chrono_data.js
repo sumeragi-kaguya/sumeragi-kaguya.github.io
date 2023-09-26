@@ -12110,7 +12110,7 @@ var datach = {
      "name": "Игрушки для взрослых",
      "mode": 0,
      "chara": [58],
-     "done": false
+     "done": true
     },
     {"id": 2734,
      "start": new Date(2018, 0, 19, 9, 0),
@@ -12520,7 +12520,7 @@ var datach = {
      "name": "The Big Score",
      "mode": 0,
      "chara": [278],
-     "done": false
+     "done": true
     },
     {"id": 2860,
      "start": new Date(2018, 0, 25, 12, 0),
