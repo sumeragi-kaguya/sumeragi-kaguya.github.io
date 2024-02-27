@@ -8478,7 +8478,7 @@ var datach = {
      "name": "Eye of the Dragon",
      "mode": 0,
      "chara": [11, 74],
-     "done": false
+     "done": true
     },
     {"id": 2415,
      "start": new Date(2017, 11, 1, 1, 0),
@@ -9788,7 +9788,7 @@ var datach = {
      "name": "Way of the Highlander: Wolves of Antananarivo",
      "mode": 0,
      "chara": [71],
-     "done": false
+     "done": true
     },
     {"id": 2128,
      "start": new Date(2017, 11, 15, 2, 0),
@@ -10812,16 +10812,6 @@ var datach = {
      "chara": [18],
      "done": true
     },
-    {"id": 2710,
-     "start": new Date(2018, 0, 2, 3, 0),
-     "end": new Date(2018, 0, 2, 3, 30),
-     "tz": 13,
-     "turn": 7,
-     "name": "Double Flash",
-     "mode": 0,
-     "chara": [258, 72],
-     "done": false
-    },
     {"id": 2566,
      "start": new Date(2018, 0, 2, 6, 0),
      "end": new Date(2018, 0, 2, 8, 0),
@@ -11800,7 +11790,7 @@ var datach = {
      "name": "Молния и Искра",
      "mode": 0,
      "chara": [74, 273, 7],
-     "done": false
+     "done": true
     },
     {"id": 2662,
      "start": new Date(2018, 0, 15, 11, 0),
@@ -11871,16 +11861,6 @@ var datach = {
      "mode": 0,
      "chara": [5, 18],
      "done": true
-    },
-    {"id": 2920,
-     "start": new Date(2018, 0, 16, 4, 0),
-     "end": new Date(2018, 0, 16, 6, 0),
-     "tz": 12,
-     "turn": 7,
-     "name": "The Once and Future Heroes",
-     "mode": 0,
-     "chara": [72, 26, 115],
-     "done": false
     },
     {"id": 2779,
      "start": new Date(2018, 0, 16, 11, 0),
@@ -12732,6 +12712,16 @@ var datach = {
      "chara": [328],
      "done": true
     },
+    {"id": 2941,
+     "start": new Date(2018, 0, 29, 0, 0),
+     "end": new Date(2018, 0, 29, 1, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Прогулки после школы",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
     {"id": 2936,
      "start": new Date(2018, 0, 30, 7, 0),
      "end": new Date(2018, 0, 30, 11, 0),
@@ -12750,17 +12740,7 @@ var datach = {
      "name": "Продолжая жить дальше",
      "mode": 0,
      "chara": [328],
-     "done": false
-    },
-    {"id": 2940,
-     "start": new Date(2018, 0, 31, 4, 0),
-     "end": new Date(2018, 0, 31, 6, 0),
-     "tz": 8,
-     "turn": 7,
-     "name": "Следы решений",
-     "mode": 0,
-     "chara": [233],
-     "done": false
+     "done": true
     },
     {"id": 2849,
      "start": new Date(2018, 0, 31, 5, 0),
@@ -12771,6 +12751,16 @@ var datach = {
      "mode": 0,
      "chara": [111, 90],
      "done": true
+    },
+    {"id": 2944,
+     "start": new Date(2018, 1, 1, 16, 0),
+     "end": new Date(2018, 1, 2, 2, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": " Новые звезды Нео-Токио: Затишье перед бурей",
+     "mode": 0,
+     "chara": [],
+     "done": false
     }
   ],
   "0": [
@@ -12914,16 +12904,6 @@ var datach = {
      "chara": [11, 18],
      "done": true
     },
-    {"id": 2861,
-     "start": new Date(2009, 5, 11, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Покуда не стёрся наш след",
-     "mode": 0,
-     "chara": [119, 64],
-     "done": false
-    },
     {"id": 853,
      "start": new Date(2009, 6, 22, 0, 0),
      "end": null,
@@ -12973,16 +12953,6 @@ var datach = {
      "mode": 0,
      "chara": [96],
      "done": true
-    },
-    {"id": 2493,
-     "start": new Date(2010, 11, 22, 0, 0),
-     "end": new Date(2011, 0, 6, 0, 0),
-     "tz": 0,
-     "turn": 0,
-     "name": "Особенности национального выживания",
-     "mode": 0,
-     "chara": [243],
-     "done": false
     },
     {"id": 1739,
      "start": new Date(2011, 2, 1, 0, 0),
@@ -13114,16 +13084,6 @@ var datach = {
      "chara": [253],
      "done": true
     },
-    {"id": 2791,
-     "start": new Date(2014, 6, 20, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Сомнение и доверие",
-     "mode": 0,
-     "chara": [330, 304],
-     "done": false
-    },
     {"id": 2024,
      "start": new Date(2015, 0, 5, 0, 0),
      "end": new Date(2015, 0, 7, 0, 0),
@@ -13183,16 +13143,6 @@ var datach = {
      "mode": 0,
      "chara": [212],
      "done": true
-    },
-    {"id": 2830,
-     "start": new Date(2015, 6, 22, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "you make me crazy",
-     "mode": 0,
-     "chara": [],
-     "done": false
     },
     {"id": 1701,
      "start": new Date(2015, 7, 1, 0, 0),
@@ -13384,16 +13334,6 @@ var datach = {
      "chara": [],
      "done": false
     },
-    {"id": 2750,
-     "start": new Date(2016, 4, 3, 0, 0),
-     "end": new Date(2016, 4, 5, 0, 0),
-     "tz": 0,
-     "turn": 0,
-     "name": "Mascara: Bloodpath",
-     "mode": 0,
-     "chara": [328, 193],
-     "done": false
-    },
     {"id": 2814,
      "start": new Date(2016, 4, 3, 0, 0),
      "end": new Date(2016, 4, 5, 0, 0),
@@ -13443,16 +13383,6 @@ var datach = {
      "mode": 0,
      "chara": [11],
      "done": true
-    },
-    {"id": 2321,
-     "start": new Date(2016, 11, 12, 0, 0),
-     "end": null,
-     "tz": 0,
-     "turn": 0,
-     "name": "Море",
-     "mode": 0,
-     "chara": [96, 88],
-     "done": false
     },
     {"id": 418,
      "start": new Date(2016, 11, 15, 0, 0),
