@@ -11909,7 +11909,7 @@ var datach = {
      "turn": 7,
      "name": "Битва у Семи Палат: Нет побед без техподдержки",
      "mode": 0,
-     "chara": [26],
+     "chara": [295, 26],
      "done": false
     },
     {"id": 2744,
@@ -12460,7 +12460,7 @@ var datach = {
      "name": "Собрать их всех, какой ценой?",
      "mode": 0,
      "chara": [311, 80],
-     "done": false
+     "done": true
     },
     {"id": 2812,
      "start": new Date(2018, 0, 25, 1, 0),
@@ -12610,7 +12610,7 @@ var datach = {
      "name": "Speechless",
      "mode": 0,
      "chara": [71, 7],
-     "done": false
+     "done": true
     },
     {"id": 2901,
      "start": new Date(2018, 0, 27, 0, 1),
