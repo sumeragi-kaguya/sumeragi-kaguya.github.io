@@ -12060,7 +12060,7 @@ var datach = {
      "name": "Ноктюрн для сакуры с оркестром",
      "mode": 0,
      "chara": [49, 5],
-     "done": false
+     "done": true
     },
     {"id": 2928,
      "start": new Date(2018, 0, 19, 2, 0),
@@ -13352,6 +13352,16 @@ var datach = {
      "name": "Algerian syndrome: Bloody Express",
      "mode": 0,
      "chara": [],
+     "done": false
+    },
+    {"id": 2750,
+     "start": new Date(2016, 4, 3, 0, 0),
+     "end": new Date(2016, 4, 5, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Mascara: Bloodpath",
+     "mode": 0,
+     "chara": [328, 193],
      "done": false
     },
     {"id": 2814,
