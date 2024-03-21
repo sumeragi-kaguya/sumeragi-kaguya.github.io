@@ -11370,7 +11370,7 @@ var datach = {
      "name": "Innocence",
      "mode": 0,
      "chara": [3, 6],
-     "done": false
+     "done": true
     },
     {"id": 2563,
      "start": new Date(2018, 0, 10, 2, 0),
@@ -12720,6 +12720,16 @@ var datach = {
      "name": "Страсти по Химчистке. Спин-офф: Girl's Night Out",
      "mode": 0,
      "chara": [],
+     "done": false
+    },
+    {"id": 2951,
+     "start": new Date(2018, 0, 28, 21, 0),
+     "end": new Date(2018, 0, 28, 21, 10),
+     "tz": 16,
+     "turn": 7,
+     "name": "Losing your favourite game",
+     "mode": 0,
+     "chara": [146],
      "done": false
     },
     {"id": 2914,
