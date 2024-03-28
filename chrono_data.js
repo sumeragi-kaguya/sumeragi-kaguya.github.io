@@ -12730,7 +12730,7 @@ var datach = {
      "name": "Losing your favourite game",
      "mode": 0,
      "chara": [146],
-     "done": false
+     "done": true
     },
     {"id": 2914,
      "start": new Date(2018, 0, 28, 23, 30),
@@ -12953,6 +12953,16 @@ var datach = {
      "mode": 0,
      "chara": [40, 18, 108],
      "done": true
+    },
+    {"id": 2953,
+     "start": new Date(2010, 0, 1, 0, 0),
+     "end": new Date(2010, 0, 3, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Африканский карнавал: Как встретишь Новый Год...",
+     "mode": 0,
+     "chara": [19],
+     "done": false
     },
     {"id": 1970,
      "start": new Date(2010, 7, 10, 0, 0),
