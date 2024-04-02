@@ -12152,6 +12152,16 @@ var datach = {
      "chara": [326, 177, 283, 282, 289],
      "done": true
     },
+    {"id": 2955,
+     "start": new Date(2018, 0, 19, 22, 0),
+     "end": new Date(2018, 0, 20, 0, 0),
+     "tz": 7,
+     "turn": 7,
+     "name": "Шаг в сторону",
+     "mode": 0,
+     "chara": [58],
+     "done": false
+    },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
      "end": new Date(2018, 0, 20, 21, 0),
@@ -12490,6 +12500,16 @@ var datach = {
      "name": "Теплые встречи",
      "mode": 0,
      "chara": [328],
+     "done": false
+    },
+    {"id": 2956,
+     "start": new Date(2018, 0, 25, 3, 0),
+     "end": new Date(2018, 0, 25, 8, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Урьха будет дуть-дуть...",
+     "mode": 0,
+     "chara": [21],
      "done": false
     },
     {"id": 2880,
