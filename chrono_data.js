@@ -11810,7 +11810,7 @@ var datach = {
      "name": "Korean western with Russian dressing",
      "mode": 0,
      "chara": [],
-     "done": false
+     "done": true
     },
     {"id": 2699,
      "start": new Date(2018, 0, 16, 0, 0),
@@ -12160,7 +12160,7 @@ var datach = {
      "name": "Шаг в сторону",
      "mode": 0,
      "chara": [58],
-     "done": false
+     "done": true
     },
     {"id": 2653,
      "start": new Date(2018, 0, 20, 0, 0),
@@ -12232,6 +12232,16 @@ var datach = {
      "chara": [282, 283, 289, 326],
      "done": true
     },
+    {"id": 2957,
+     "start": new Date(2018, 0, 20, 11, 0),
+     "end": new Date(2018, 0, 20, 14, 0),
+     "tz": 7,
+     "turn": 7,
+     "name": "Шапочки и алюминий",
+     "mode": 0,
+     "chara": [58],
+     "done": false
+    },
     {"id": 2847,
      "start": new Date(2018, 0, 20, 14, 0),
      "end": new Date(2018, 0, 20, 16, 0),
@@ -12280,6 +12290,16 @@ var datach = {
      "name": "Мёртвые не обижаются",
      "mode": 0,
      "chara": [290, 84],
+     "done": false
+    },
+    {"id": 2956,
+     "start": new Date(2018, 0, 21, 3, 0),
+     "end": new Date(2018, 0, 21, 8, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Урьха будет дуть-дуть...",
+     "mode": 0,
+     "chara": [21],
      "done": false
     },
     {"id": 2782,
@@ -12362,6 +12382,16 @@ var datach = {
      "chara": [182],
      "done": true
     },
+    {"id": 2910,
+     "start": new Date(2018, 0, 22, 7, 0),
+     "end": new Date(2018, 0, 22, 12, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "По песчаному следу",
+     "mode": 0,
+     "chara": [177, 292],
+     "done": false
+    },
     {"id": 2803,
      "start": new Date(2018, 0, 22, 10, 40),
      "end": new Date(2018, 0, 22, 12, 20),
@@ -12442,16 +12472,6 @@ var datach = {
      "chara": [313, 328],
      "done": true
     },
-    {"id": 2910,
-     "start": new Date(2018, 0, 24, 7, 0),
-     "end": new Date(2018, 0, 24, 12, 0),
-     "tz": 9,
-     "turn": 7,
-     "name": "По песчаному следу",
-     "mode": 0,
-     "chara": [177, 292],
-     "done": false
-    },
     {"id": 2872,
      "start": new Date(2018, 0, 24, 15, 1),
      "end": new Date(2018, 0, 24, 21, 0),
@@ -12500,16 +12520,6 @@ var datach = {
      "name": "Теплые встречи",
      "mode": 0,
      "chara": [328],
-     "done": false
-    },
-    {"id": 2956,
-     "start": new Date(2018, 0, 25, 3, 0),
-     "end": new Date(2018, 0, 25, 8, 0),
-     "tz": 9,
-     "turn": 7,
-     "name": "Урьха будет дуть-дуть...",
-     "mode": 0,
-     "chara": [21],
      "done": false
     },
     {"id": 2880,
@@ -12610,7 +12620,7 @@ var datach = {
      "name": "I Did Something Bad",
      "mode": 0,
      "chara": [40, 119],
-     "done": false
+     "done": true
     },
     {"id": 2805,
      "start": new Date(2018, 0, 26, 19, 0),
@@ -12819,7 +12829,7 @@ var datach = {
      "turn": 7,
      "name": "Новые звезды Нео-Токио: Затишье перед бурей",
      "mode": 0,
-     "chara": [],
+     "chara": [328, 3, 54, 313, 250, 322, 118, 309, 267],
      "done": false
     }
   ],
