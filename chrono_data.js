@@ -12392,6 +12392,16 @@ var datach = {
      "chara": [177, 292],
      "done": false
     },
+    {"id": 2958,
+     "start": new Date(2018, 0, 22, 9, 30),
+     "end": new Date(2018, 0, 22, 15, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Стикс",
+     "mode": 0,
+     "chara": [290],
+     "done": false
+    },
     {"id": 2803,
      "start": new Date(2018, 0, 22, 10, 40),
      "end": new Date(2018, 0, 22, 12, 20),
@@ -12499,7 +12509,7 @@ var datach = {
      "turn": 7,
      "name": "Трофеи и победители",
      "mode": 0,
-     "chara": [73],
+     "chara": [193],
      "done": false
     },
     {"id": 2842,
