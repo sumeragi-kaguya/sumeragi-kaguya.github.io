@@ -9628,7 +9628,7 @@ var datach = {
      "name": "Double Prime",
      "mode": 0,
      "chara": [11, 34],
-     "done": false
+     "done": true
     },
     {"id": 2166,
      "start": new Date(2017, 11, 13, 3, 0),
@@ -11610,7 +11610,7 @@ var datach = {
      "name": " \"Феникс\" жжет резину",
      "mode": 0,
      "chara": [336],
-     "done": false
+     "done": true
     },
     {"id": 2889,
      "start": new Date(2018, 0, 12, 2, 0),
@@ -11700,6 +11700,16 @@ var datach = {
      "name": "Работники пера и топора",
      "mode": 0,
      "chara": [317, 316],
+     "done": true
+    },
+    {"id": 2985,
+     "start": new Date(2018, 0, 14, 4, 0),
+     "end": new Date(2018, 0, 14, 6, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Незапланированные издержки",
+     "mode": 0,
+     "chara": [336],
      "done": true
     },
     {"id": 2691,
@@ -11882,6 +11892,16 @@ var datach = {
      "chara": [5, 18],
      "done": true
     },
+    {"id": 2984,
+     "start": new Date(2018, 0, 16, 10, 0),
+     "end": new Date(2018, 0, 16, 12, 0),
+     "tz": 0,
+     "turn": 7,
+     "name": "Тени за зеркалом",
+     "mode": 0,
+     "chara": [33],
+     "done": true
+    },
     {"id": 2779,
      "start": new Date(2018, 0, 16, 11, 0),
      "end": new Date(2018, 0, 16, 16, 0),
@@ -12022,6 +12042,16 @@ var datach = {
      "chara": [324, 325],
      "done": true
     },
+    {"id": 2988,
+     "start": new Date(2018, 0, 17, 12, 0),
+     "end": new Date(2018, 0, 17, 14, 0),
+     "tz": 0,
+     "turn": 7,
+     "name": "Та, что пахнет яблоком с карамелью",
+     "mode": 0,
+     "chara": [33],
+     "done": false
+    },
     {"id": 2799,
      "start": new Date(2018, 0, 17, 17, 0),
      "end": new Date(2018, 0, 17, 19, 0),
@@ -12060,7 +12090,7 @@ var datach = {
      "name": "Кровь, расчёт и милость: ступени к погонам",
      "mode": 0,
      "chara": [226, 18, 66],
-     "done": false
+     "done": true
     },
     {"id": 2656,
      "start": new Date(2018, 0, 17, 23, 10),
@@ -12090,7 +12120,7 @@ var datach = {
      "name": "Исповедь без отпущения",
      "mode": 0,
      "chara": [329],
-     "done": false
+     "done": true
     },
     {"id": 2924,
      "start": new Date(2018, 0, 19, 2, 0),
@@ -12340,7 +12370,7 @@ var datach = {
      "name": "Урьха будет дуть-дуть...",
      "mode": 0,
      "chara": [21],
-     "done": false
+     "done": true
     },
     {"id": 2782,
      "start": new Date(2018, 0, 21, 7, 0),
@@ -12381,6 +12411,16 @@ var datach = {
      "mode": 0,
      "chara": [308],
      "done": true
+    },
+    {"id": 2989,
+     "start": new Date(2018, 0, 21, 21, 0),
+     "end": new Date(2018, 0, 22, 2, 0),
+     "tz": 8,
+     "turn": 7,
+     "name": "По собачьему следу",
+     "mode": 0,
+     "chara": [292],
+     "done": false
     },
     {"id": 2785,
      "start": new Date(2018, 0, 21, 21, 10),
@@ -12442,6 +12482,16 @@ var datach = {
      "chara": [282, 283, 21, 326],
      "done": false
     },
+    {"id": 2982,
+     "start": new Date(2018, 0, 22, 9, 30),
+     "end": new Date(2018, 0, 22, 15, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Рёв Зверя",
+     "mode": 0,
+     "chara": [289],
+     "done": false
+    },
     {"id": 2958,
      "start": new Date(2018, 0, 22, 9, 30),
      "end": new Date(2018, 0, 22, 15, 0),
@@ -12500,7 +12550,7 @@ var datach = {
      "name": "Ледяной альянс",
      "mode": 0,
      "chara": [90, 188],
-     "done": false
+     "done": true
     },
     {"id": 2864,
      "start": new Date(2018, 0, 23, 5, 0),
@@ -12541,6 +12591,16 @@ var datach = {
      "mode": 0,
      "chara": [313, 328],
      "done": true
+    },
+    {"id": 2962,
+     "start": new Date(2018, 0, 24, 11, 0),
+     "end": new Date(2018, 0, 24, 13, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Дракон для принцессы",
+     "mode": 0,
+     "chara": [182],
+     "done": false
     },
     {"id": 2872,
      "start": new Date(2018, 0, 24, 15, 1),
@@ -12812,16 +12872,6 @@ var datach = {
      "chara": [309, 313, 118, 322],
      "done": false
     },
-    {"id": 2877,
-     "start": new Date(2018, 0, 28, 10, 0),
-     "end": new Date(2018, 0, 29, 1, 0),
-     "tz": 9,
-     "turn": 7,
-     "name": "Страсти по Химчистке. Спин-офф: Girl's Night Out",
-     "mode": 0,
-     "chara": [],
-     "done": false
-    },
     {"id": 2951,
      "start": new Date(2018, 0, 28, 21, 0),
      "end": new Date(2018, 0, 28, 21, 10),
@@ -12871,6 +12921,16 @@ var datach = {
      "mode": 0,
      "chara": [118, 313],
      "done": true
+    },
+    {"id": 2991,
+     "start": new Date(2018, 0, 30, 15, 0),
+     "end": new Date(2018, 0, 30, 16, 0),
+     "tz": 0,
+     "turn": 7,
+     "name": "Чистая кровь, грязные сплетни",
+     "mode": 0,
+     "chara": [],
+     "done": false
     },
     {"id": 2939,
      "start": new Date(2018, 0, 30, 18, 0),
