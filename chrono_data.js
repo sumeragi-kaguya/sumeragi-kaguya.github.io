@@ -12170,7 +12170,7 @@ var datach = {
      "name": "Два свидания под взглядом Будды",
      "mode": 0,
      "chara": [34, 40],
-     "done": false
+     "done": true
     },
     {"id": 2808,
      "start": new Date(2018, 0, 19, 7, 0),
@@ -12420,7 +12420,7 @@ var datach = {
      "name": "По собачьему следу",
      "mode": 0,
      "chara": [292],
-     "done": false
+     "done": true
     },
     {"id": 2785,
      "start": new Date(2018, 0, 21, 21, 10),
@@ -12810,7 +12810,17 @@ var datach = {
      "name": "Moth into flame",
      "mode": 0,
      "chara": [40, 119, 108],
-     "done": false
+     "done": true
+    },
+    {"id": 2890,
+     "start": new Date(2018, 0, 27, 5, 0),
+     "end": new Date(2018, 0, 27, 7, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Лучше ли старый друг новых десяти?",
+     "mode": 0,
+     "chara": [313],
+     "done": true
     },
     {"id": 2894,
      "start": new Date(2018, 0, 27, 6, 30),
@@ -12910,7 +12920,27 @@ var datach = {
      "name": "Пляжный эпизод на минималках",
      "mode": 0,
      "chara": [29, 257, 94, 278],
-     "done": false
+     "done": true
+    },
+    {"id": 2997,
+     "start": new Date(2018, 0, 30, 0, 0),
+     "end": new Date(2018, 0, 30, 2, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Фуксия на фоне имперского золота",
+     "mode": 0,
+     "chara": [180, 89],
+     "done": true
+    },
+    {"id": 2996,
+     "start": new Date(2018, 0, 30, 6, 0),
+     "end": new Date(2018, 0, 30, 8, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Палата №7: Наследство и Рубцы",
+     "mode": 0,
+     "chara": [90, 89],
+     "done": true
     },
     {"id": 2936,
      "start": new Date(2018, 0, 30, 7, 0),
@@ -13023,6 +13053,16 @@ var datach = {
      "mode": 0,
      "chara": [11, 103, 299],
      "done": true
+    },
+    {"id": 2993,
+     "start": new Date(2006, 7, 9, 0, 0),
+     "end": null,
+     "tz": 0,
+     "turn": 0,
+     "name": "Хочешь сладких апельсинов...?",
+     "mode": 0,
+     "chara": [26],
+     "done": false
     },
     {"id": 2190,
      "start": new Date(2007, 6, 15, 0, 0),
