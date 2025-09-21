@@ -10910,7 +10910,7 @@ var datach = {
      "name": "Sancta Politicus",
      "mode": 0,
      "chara": [47, 61, 243],
-     "done": false
+     "done": true
     },
     {"id": 2598,
      "start": new Date(2018, 0, 3, 16, 37),
@@ -12140,7 +12140,7 @@ var datach = {
      "name": "Симфония на нервах",
      "mode": 0,
      "chara": [18, 272],
-     "done": false
+     "done": true
     },
     {"id": 2826,
      "start": new Date(2018, 0, 19, 2, 0),
@@ -12971,6 +12971,16 @@ var datach = {
      "mode": 0,
      "chara": [328],
      "done": true
+    },
+    {"id": 2998,
+     "start": new Date(2018, 0, 31, 2, 0),
+     "end": new Date(2018, 0, 31, 5, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "За дверью одиночества",
+     "mode": 0,
+     "chara": [89, 336],
+     "done": false
     },
     {"id": 2849,
      "start": new Date(2018, 0, 31, 5, 0),
