@@ -12023,8 +12023,8 @@ var datach = {
      "done": true
     },
     {"id": 2708,
-     "start": new Date(2018, 0, 17, 11, 0),
-     "end": new Date(2018, 0, 17, 18, 0),
+     "start": new Date(2018, 0, 7, 11, 0),
+     "end": new Date(2018, 0, 7, 18, 0),
      "tz": 15,
      "turn": 7,
      "name": "Охотник и добыча",
