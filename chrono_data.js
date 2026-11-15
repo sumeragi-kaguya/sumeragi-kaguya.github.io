@@ -11112,6 +11112,16 @@ var datach = {
      "chara": [268],
      "done": true
     },
+    {"id": 2708,
+     "start": new Date(2018, 0, 7, 11, 0),
+     "end": new Date(2018, 0, 7, 18, 0),
+     "tz": 15,
+     "turn": 7,
+     "name": "Охотник и добыча",
+     "mode": 0,
+     "chara": [324, 325],
+     "done": true
+    },
     {"id": 2642,
      "start": new Date(2018, 0, 7, 11, 0),
      "end": new Date(2018, 0, 7, 14, 0),
@@ -12020,16 +12030,6 @@ var datach = {
      "name": "Утро красит нежным светом",
      "mode": 0,
      "chara": [40, 119],
-     "done": true
-    },
-    {"id": 2708,
-     "start": new Date(2018, 0, 7, 11, 0),
-     "end": new Date(2018, 0, 7, 18, 0),
-     "tz": 15,
-     "turn": 7,
-     "name": "Охотник и добыча",
-     "mode": 0,
-     "chara": [324, 325],
      "done": true
     },
     {"id": 2988,
