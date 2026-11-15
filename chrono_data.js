@@ -8870,6 +8870,16 @@ var datach = {
      "chara": [74, 7, 11],
      "done": true
     },
+    {"id": 3073,
+     "start": new Date(2017, 11, 6, 13, 13),
+     "end": new Date(2017, 11, 6, 21, 0),
+     "tz": 21,
+     "turn": 6,
+     "name": "Wonderfall",
+     "mode": 0,
+     "chara": [45],
+     "done": false
+    },
     {"id": 2006,
      "start": new Date(2017, 11, 6, 18, 0),
      "end": new Date(2017, 11, 6, 21, 0),
@@ -11920,7 +11930,7 @@ var datach = {
      "name": "Битва у Семи Палат:  运斤成风",
      "mode": 0,
      "chara": [324],
-     "done": false
+     "done": true
     },
     {"id": 2942,
      "start": new Date(2018, 0, 17, 2, 0),
@@ -12270,7 +12280,7 @@ var datach = {
      "name": "В связях, порочащих его...",
      "mode": 0,
      "chara": [177, 84],
-     "done": false
+     "done": true
     },
     {"id": 2737,
      "start": new Date(2018, 0, 20, 5, 0),
@@ -12490,7 +12500,7 @@ var datach = {
      "name": "Отпечатки Аида",
      "mode": 0,
      "chara": [282, 283, 21, 326, 84],
-     "done": false
+     "done": true
     },
     {"id": 2958,
      "start": new Date(2018, 0, 22, 9, 30),
@@ -12500,7 +12510,7 @@ var datach = {
      "name": "Стикс",
      "mode": 0,
      "chara": [290],
-     "done": false
+     "done": true
     },
     {"id": 2803,
      "start": new Date(2018, 0, 22, 10, 40),
@@ -12562,6 +12572,16 @@ var datach = {
      "chara": [33],
      "done": true
     },
+    {"id": 3066,
+     "start": new Date(2018, 0, 22, 21, 45),
+     "end": new Date(2018, 0, 23, 7, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Город мёртвых псов",
+     "mode": 0,
+     "chara": [290],
+     "done": false
+    },
     {"id": 3022,
      "start": new Date(2018, 0, 22, 23, 30),
      "end": new Date(2018, 0, 23, 17, 0),
@@ -12581,6 +12601,16 @@ var datach = {
      "mode": 0,
      "chara": [90, 188],
      "done": true
+    },
+    {"id": 3062,
+     "start": new Date(2018, 0, 23, 2, 0),
+     "end": new Date(2018, 0, 23, 7, 0),
+     "tz": 9,
+     "turn": 7,
+     "name": "Дорога на север",
+     "mode": 0,
+     "chara": [282, 283, 21, 326, 84],
+     "done": false
     },
     {"id": 2864,
      "start": new Date(2018, 0, 23, 5, 0),
@@ -12770,7 +12800,7 @@ var datach = {
      "name": "Ночной визитёр",
      "mode": 0,
      "chara": [33],
-     "done": false
+     "done": true
     },
     {"id": 2798,
      "start": new Date(2018, 0, 26, 6, 0),
@@ -12972,6 +13002,16 @@ var datach = {
      "chara": [29, 257, 94, 278],
      "done": true
     },
+    {"id": 3074,
+     "start": new Date(2018, 0, 29, 23, 0),
+     "end": new Date(2018, 0, 30, 0, 0),
+     "tz": 10,
+     "turn": 7,
+     "name": "Утро, которого не ждали",
+     "mode": 0,
+     "chara": [182],
+     "done": false
+    },
     {"id": 2997,
      "start": new Date(2018, 0, 30, 0, 0),
      "end": new Date(2018, 0, 30, 2, 0),
@@ -13080,7 +13120,7 @@ var datach = {
      "name": "Анатомия гнева",
      "mode": 0,
      "chara": [40, 108],
-     "done": false
+     "done": true
     },
     {"id": 2944,
      "start": new Date(2018, 1, 1, 16, 0),
@@ -13092,6 +13132,16 @@ var datach = {
      "chara": [328, 3, 54, 313, 250, 322, 118, 309, 267, 226],
      "done": true
     },
+    {"id": 3069,
+     "start": new Date(2018, 1, 2, 2, 0),
+     "end": new Date(2018, 1, 2, 5, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Buried Alive Escape",
+     "mode": 0,
+     "chara": [54],
+     "done": false
+    },
     {"id": 3023,
      "start": new Date(2018, 1, 2, 2, 0),
      "end": new Date(2018, 1, 2, 5, 0),
@@ -13101,6 +13151,16 @@ var datach = {
      "mode": 0,
      "chara": [250, 322, 4],
      "done": false
+    },
+    {"id": 3055,
+     "start": new Date(2018, 1, 2, 7, 0),
+     "end": new Date(2018, 1, 2, 12, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Запах рыбы и керосина",
+     "mode": 0,
+     "chara": [33],
+     "done": true
     },
     {"id": 3021,
      "start": new Date(2018, 1, 2, 15, 0),
@@ -13112,6 +13172,16 @@ var datach = {
      "chara": [29, 257, 278, 265, 94],
      "done": false
     },
+    {"id": 3054,
+     "start": new Date(2018, 1, 2, 23, 0),
+     "end": new Date(2018, 1, 3, 1, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Сонный Паралич",
+     "mode": 0,
+     "chara": [],
+     "done": true
+    },
     {"id": 3015,
      "start": new Date(2018, 1, 3, 9, 0),
      "end": new Date(2018, 1, 3, 12, 0),
@@ -13120,6 +13190,66 @@ var datach = {
      "name": "Империя обмана",
      "mode": 0,
      "chara": [89, 336],
+     "done": false
+    },
+    {"id": 3070,
+     "start": new Date(2018, 1, 3, 18, 0),
+     "end": new Date(2018, 1, 3, 20, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Нео-Токийский Гамбит",
+     "mode": 0,
+     "chara": [],
+     "done": false
+    },
+    {"id": 3060,
+     "start": new Date(2018, 1, 3, 23, 0),
+     "end": new Date(2018, 1, 4, 1, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Между правдой и ложью",
+     "mode": 0,
+     "chara": [18, 118, 313],
+     "done": true
+    },
+    {"id": 3063,
+     "start": new Date(2018, 1, 4, 2, 0),
+     "end": new Date(2018, 1, 4, 2, 25),
+     "tz": 16,
+     "turn": 7,
+     "name": "Сталь и холод",
+     "mode": 0,
+     "chara": [18, 226],
+     "done": true
+    },
+    {"id": 3064,
+     "start": new Date(2018, 1, 4, 2, 30),
+     "end": new Date(2018, 1, 4, 3, 0),
+     "tz": 16,
+     "turn": 7,
+     "name": "Танец на минном поле",
+     "mode": 0,
+     "chara": [18, 272],
+     "done": true
+    },
+    {"id": 3067,
+     "start": new Date(2018, 1, 4, 3, 30),
+     "end": new Date(2018, 1, 4, 7, 45),
+     "tz": 16,
+     "turn": 7,
+     "name": "Что затвердело, побеждает морковь",
+     "mode": 0,
+     "chara": [226],
+     "done": false
+    },
+    {"id": 3071,
+     "start": new Date(2018, 1, 4, 4, 0),
+     "end": new Date(2018, 1, 4, 5, 30),
+     "tz": 16,
+     "turn": 7,
+     "name": "The Ballad of Pink Fires",
+     "mode": 0,
+     "chara": [18, 33],
      "done": false
     }
   ],
@@ -13282,7 +13412,7 @@ var datach = {
      "name": "Африканский карнавал: Как встретишь Новый Год...",
      "mode": 0,
      "chara": [337],
-     "done": false
+     "done": true
     },
     {"id": 597,
      "start": new Date(2010, 7, 20, 0, 0),
@@ -13423,6 +13553,16 @@ var datach = {
      "mode": 0,
      "chara": [18, 120],
      "done": true
+    },
+    {"id": 3058,
+     "start": new Date(2014, 5, 4, 0, 0),
+     "end": new Date(2014, 5, 5, 0, 0),
+     "tz": 0,
+     "turn": 0,
+     "name": "Котята на прогулке",
+     "mode": 0,
+     "chara": [],
+     "done": false
     },
     {"id": 2334,
      "start": new Date(2014, 5, 26, 0, 0),
